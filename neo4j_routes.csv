@@ -1,0 +1,2137 @@
+fromCode,toCode,flightCount,routeClass,fromCountry,toCountry
+3TX2,FAOR,1,International (to/from South Africa),US,ZA
+4GE2,FAOR,1,International (to/from South Africa),US,ZA
+CYUL,FACT,1,International (to/from South Africa),CA,ZA
+CYYZ,FABB,4,International (to/from South Africa),CA,ZA
+CYYZ,FACT,3,International (to/from South Africa),CA,ZA
+CYYZ,FAHG,3,International (to/from South Africa),CA,ZA
+CYYZ,FAOR,10,International (to/from South Africa),CA,ZA
+CYYZ,FASI,1,International (to/from South Africa),CA,ZA
+DAAG,FAOR,1,International (to/from South Africa),DZ,ZA
+DBBB,FABB,3,International (to/from South Africa),BJ,ZA
+DBBB,FAGM,7,International (to/from South Africa),BJ,ZA
+DBBB,FAHG,1,International (to/from South Africa),BJ,ZA
+DBBB,FALA,1,International (to/from South Africa),BJ,ZA
+DBBB,FAOR,21,International (to/from South Africa),BJ,ZA
+DBBB,FAPU,1,International (to/from South Africa),BJ,ZA
+DBBB,FASI,1,International (to/from South Africa),BJ,ZA
+DTTA,FAOR,1,International (to/from South Africa),TN,ZA
+EBBR,FABA,1,International (to/from South Africa),BE,ZA
+EBBR,FABB,2,International (to/from South Africa),BE,ZA
+EBBR,FACT,14,International (to/from South Africa),BE,ZA
+EBBR,FAGM,4,International (to/from South Africa),BE,ZA
+EBBR,FAOR,17,International (to/from South Africa),BE,ZA
+EBBR,FATA,1,International (to/from South Africa),BE,ZA
+EBBR,FAWK,1,International (to/from South Africa),BE,ZA
+EBLG,FABB,7,International (to/from South Africa),BE,ZA
+EBLG,FAGM,12,International (to/from South Africa),BE,ZA
+EBLG,FAHG,6,International (to/from South Africa),BE,ZA
+EBLG,FAOR,120,International (to/from South Africa),BE,ZA
+EBLG,FASI,2,International (to/from South Africa),BE,ZA
+EBLG,FATA,3,International (to/from South Africa),BE,ZA
+EBLG,FAVV,1,International (to/from South Africa),BE,ZA
+EBMB,FABB,4,International (to/from South Africa),BE,ZA
+EBMB,FACT,44,International (to/from South Africa),BE,ZA
+EBMB,FAGM,8,International (to/from South Africa),BE,ZA
+EBMB,FAKR,1,International (to/from South Africa),BE,ZA
+EBMB,FAOR,84,International (to/from South Africa),BE,ZA
+EBMB,FASI,1,International (to/from South Africa),BE,ZA
+EBMB,FATA,5,International (to/from South Africa),BE,ZA
+EDDB,FACT,1,International (to/from South Africa),DE,ZA
+EDDB,FAHG,2,International (to/from South Africa),DE,ZA
+EDDB,FAOR,12,International (to/from South Africa),DE,ZA
+EDDF,FABA,5,International (to/from South Africa),DE,ZA
+EDDF,FABB,21,International (to/from South Africa),DE,ZA
+EDDF,FACT,405,International (to/from South Africa),DE,ZA
+EDDF,FAGM,74,International (to/from South Africa),DE,ZA
+EDDF,FAHG,3,International (to/from South Africa),DE,ZA
+EDDF,FALA,1,International (to/from South Africa),DE,ZA
+EDDF,FAOR,387,International (to/from South Africa),DE,ZA
+EDDF,FASI,4,International (to/from South Africa),DE,ZA
+EDDF,FASY,1,International (to/from South Africa),DE,ZA
+EDDF,FATA,66,International (to/from South Africa),DE,ZA
+EDDF,FAVV,10,International (to/from South Africa),DE,ZA
+EDDH,FACT,3,International (to/from South Africa),DE,ZA
+EDDH,FAOR,1,International (to/from South Africa),DE,ZA
+EDDK,FABB,1,International (to/from South Africa),DE,ZA
+EDDK,FACT,2,International (to/from South Africa),DE,ZA
+EDDK,FALA,1,International (to/from South Africa),DE,ZA
+EDDL,FAOR,6,International (to/from South Africa),DE,ZA
+EDDL,FASI,1,International (to/from South Africa),DE,ZA
+EDDM,FABB,3,International (to/from South Africa),DE,ZA
+EDDM,FACT,158,International (to/from South Africa),DE,ZA
+EDDM,FAGM,8,International (to/from South Africa),DE,ZA
+EDDM,FAHG,2,International (to/from South Africa),DE,ZA
+EDDM,FAOR,66,International (to/from South Africa),DE,ZA
+EDDM,FATA,2,International (to/from South Africa),DE,ZA
+EDDN,FACT,1,International (to/from South Africa),DE,ZA
+EDFE,FAOR,1,International (to/from South Africa),DE,ZA
+EDFH,FACT,1,International (to/from South Africa),DE,ZA
+EDHL,FALA,1,International (to/from South Africa),DE,ZA
+EDHL,FAOR,1,International (to/from South Africa),DE,ZA
+EDJA,FACT,1,International (to/from South Africa),DE,ZA
+EDLP,FAOR,1,International (to/from South Africa),DE,ZA
+EDWC,FASH,1,International (to/from South Africa),DE,ZA
+EDXW,FACT,1,International (to/from South Africa),DE,ZA
+EETN,FACT,1,International (to/from South Africa),EE,ZA
+EFHK,FAOR,1,International (to/from South Africa),FI,ZA
+EGAA,FALA,1,International (to/from South Africa),GB,ZA
+EGBB,FACT,1,International (to/from South Africa),GB,ZA
+EGBB,FAOR,5,International (to/from South Africa),GB,ZA
+EGCC,FACT,3,International (to/from South Africa),GB,ZA
+EGCC,FAHG,1,International (to/from South Africa),GB,ZA
+EGCC,FALA,2,International (to/from South Africa),GB,ZA
+EGCC,FAOR,21,International (to/from South Africa),GB,ZA
+EGGD,FALA,1,International (to/from South Africa),GB,ZA
+EGGP,FALA,1,International (to/from South Africa),GB,ZA
+EGGW,FACT,12,International (to/from South Africa),GB,ZA
+EGGW,FAGM,1,International (to/from South Africa),GB,ZA
+EGGW,FAKR,1,International (to/from South Africa),GB,ZA
+EGGW,FAOR,5,International (to/from South Africa),GB,ZA
+EGHH,FACT,1,International (to/from South Africa),GB,ZA
+EGHH,FAOR,1,International (to/from South Africa),GB,ZA
+EGJB,FALA,1,International (to/from South Africa),GG,ZA
+EGKB,FABB,1,International (to/from South Africa),GB,ZA
+EGKK,FABB,7,International (to/from South Africa),GB,ZA
+EGKK,FACT,128,International (to/from South Africa),GB,ZA
+EGKK,FADE,1,International (to/from South Africa),GB,ZA
+EGKK,FAGM,3,International (to/from South Africa),GB,ZA
+EGKK,FAHG,12,International (to/from South Africa),GB,ZA
+EGKK,FAKR,1,International (to/from South Africa),GB,ZA
+EGKK,FAOR,69,International (to/from South Africa),GB,ZA
+EGKK,FASI,3,International (to/from South Africa),GB,ZA
+EGLF,FABA,1,International (to/from South Africa),GB,ZA
+EGLF,FACT,8,International (to/from South Africa),GB,ZA
+EGLF,FAGM,1,International (to/from South Africa),GB,ZA
+EGLF,FALA,2,International (to/from South Africa),GB,ZA
+EGLF,FAOR,16,International (to/from South Africa),GB,ZA
+EGLF,FAVV,1,International (to/from South Africa),GB,ZA
+EGLL,FABA,10,International (to/from South Africa),GB,ZA
+EGLL,FABB,37,International (to/from South Africa),GB,ZA
+EGLL,FACT,747,International (to/from South Africa),GB,ZA
+EGLL,FAGM,129,International (to/from South Africa),GB,ZA
+EGLL,FAHG,6,International (to/from South Africa),GB,ZA
+EGLL,FAOR,846,International (to/from South Africa),GB,ZA
+EGLL,FASI,2,International (to/from South Africa),GB,ZA
+EGLL,FATA,103,International (to/from South Africa),GB,ZA
+EGLL,FAVP,1,International (to/from South Africa),GB,ZA
+EGLL,FAVV,5,International (to/from South Africa),GB,ZA
+EGNS,FACT,2,International (to/from South Africa),IM,ZA
+EGPH,FABB,1,International (to/from South Africa),GB,ZA
+EGPH,FACT,11,International (to/from South Africa),GB,ZA
+EGPH,FAOR,12,International (to/from South Africa),GB,ZA
+EGPH,FARA,1,International (to/from South Africa),GB,ZA
+EGSS,FABB,1,International (to/from South Africa),GB,ZA
+EGSS,FACT,12,International (to/from South Africa),GB,ZA
+EGSS,FALA,2,International (to/from South Africa),GB,ZA
+EGSS,FAOR,2,International (to/from South Africa),GB,ZA
+EGTK,FACT,1,International (to/from South Africa),GB,ZA
+EHAM,FABA,2,International (to/from South Africa),NL,ZA
+EHAM,FABB,12,International (to/from South Africa),NL,ZA
+EHAM,FACT,451,International (to/from South Africa),NL,ZA
+EHAM,FAGM,72,International (to/from South Africa),NL,ZA
+EHAM,FAHG,2,International (to/from South Africa),NL,ZA
+EHAM,FAKR,1,International (to/from South Africa),NL,ZA
+EHAM,FAOR,394,International (to/from South Africa),NL,ZA
+EHAM,FARA,1,International (to/from South Africa),NL,ZA
+EHAM,FASI,4,International (to/from South Africa),NL,ZA
+EHAM,FASK,1,International (to/from South Africa),NL,ZA
+EHAM,FATA,34,International (to/from South Africa),NL,ZA
+EHAM,FAVP,1,International (to/from South Africa),NL,ZA
+EHAM,FAWK,1,International (to/from South Africa),NL,ZA
+EHBK,FAOR,1,International (to/from South Africa),NL,ZA
+EHRD,FACT,4,International (to/from South Africa),NL,ZA
+EHRD,FALA,1,International (to/from South Africa),NL,ZA
+EIDW,FACT,11,International (to/from South Africa),IE,ZA
+EIDW,FAGM,1,International (to/from South Africa),IE,ZA
+EIDW,FAHG,1,International (to/from South Africa),IE,ZA
+EIDW,FALA,1,International (to/from South Africa),IE,ZA
+EIDW,FAOR,15,International (to/from South Africa),IE,ZA
+EIDW,FASI,1,International (to/from South Africa),IE,ZA
+EINN,FAOR,1,International (to/from South Africa),IE,ZA
+EKCH,FABB,1,International (to/from South Africa),DK,ZA
+EKCH,FACT,4,International (to/from South Africa),DK,ZA
+EKCH,FALA,1,International (to/from South Africa),DK,ZA
+EKCH,FAOR,10,International (to/from South Africa),DK,ZA
+ELLX,FABB,3,International (to/from South Africa),LU,ZA
+ELLX,FACT,1,International (to/from South Africa),LU,ZA
+ELLX,FAGM,22,International (to/from South Africa),LU,ZA
+ELLX,FAKR,1,International (to/from South Africa),LU,ZA
+ELLX,FALA,1,International (to/from South Africa),LU,ZA
+ELLX,FAOR,115,International (to/from South Africa),LU,ZA
+ELLX,FATA,15,International (to/from South Africa),LU,ZA
+ENGM,FABB,2,International (to/from South Africa),NO,ZA
+ENGM,FACT,5,International (to/from South Africa),NO,ZA
+ENGM,FAOR,8,International (to/from South Africa),NO,ZA
+EPWA,FACT,1,International (to/from South Africa),PL,ZA
+EPWA,FAOR,9,International (to/from South Africa),PL,ZA
+ESSA,FACT,40,International (to/from South Africa),SE,ZA
+ESSA,FAGM,1,International (to/from South Africa),SE,ZA
+ESSA,FAKR,1,International (to/from South Africa),SE,ZA
+ESSA,FAOR,3,International (to/from South Africa),SE,ZA
+ESSA,FASI,1,International (to/from South Africa),SE,ZA
+FABA,FABA,34,Domestic (South Africa),ZA,ZA
+FABA,FABS,6,Domestic (South Africa),ZA,ZA
+FABA,FACR,2,Domestic (South Africa),ZA,ZA
+FABA,FACT,5,Domestic (South Africa),ZA,ZA
+FABA,FADE,1,Domestic (South Africa),ZA,ZA
+FABA,FAFW,1,Domestic (South Africa),ZA,ZA
+FABA,FAGC,17,Domestic (South Africa),ZA,ZA
+FABA,FAGM,5,Domestic (South Africa),ZA,ZA
+FABA,FAHG,4,Domestic (South Africa),ZA,ZA
+FABA,FAHK,4,Domestic (South Africa),ZA,ZA
+FABA,FAKR,2,Domestic (South Africa),ZA,ZA
+FABA,FAKT,20,Domestic (South Africa),ZA,ZA
+FABA,FALA,12,Domestic (South Africa),ZA,ZA
+FABA,FAMS,1,Domestic (South Africa),ZA,ZA
+FABA,FANL,1,Domestic (South Africa),ZA,ZA
+FABA,FAOI,1,Domestic (South Africa),ZA,ZA
+FABA,FAOR,5,Domestic (South Africa),ZA,ZA
+FABA,FAPX,1,Domestic (South Africa),ZA,ZA
+FABA,FARA,1,Domestic (South Africa),ZA,ZA
+FABA,FARO,3,Domestic (South Africa),ZA,ZA
+FABA,FASK,4,Domestic (South Africa),ZA,ZA
+FABA,FASR,5,Domestic (South Africa),ZA,ZA
+FABA,FASY,1,Domestic (South Africa),ZA,ZA
+FABA,FATA,2,Domestic (South Africa),ZA,ZA
+FABA,FAVE,1,Domestic (South Africa),ZA,ZA
+FABA,FAVV,2,Domestic (South Africa),ZA,ZA
+FABA,FAWB,2,Domestic (South Africa),ZA,ZA
+FABA,FAWI,1,Domestic (South Africa),ZA,ZA
+FABA,LFLI,1,International (to/from South Africa),ZA,FR
+FABA,LIPD,1,International (to/from South Africa),ZA,IT
+FABA,LSGE,1,International (to/from South Africa),ZA,CH
+FABA,MMVR,2,International (to/from South Africa),ZA,MX
+FABA,OMDB,1,International (to/from South Africa),ZA,AE
+FABA,OTHH,1,International (to/from South Africa),ZA,QA
+FABA,WSSS,1,International (to/from South Africa),ZA,SG
+FABA,YSSY,1,International (to/from South Africa),ZA,AU
+FABB,EBBR,1,International (to/from South Africa),ZA,BE
+FABB,EDDF,1,International (to/from South Africa),ZA,DE
+FABB,EGCC,1,International (to/from South Africa),ZA,GB
+FABB,EGLL,1,International (to/from South Africa),ZA,GB
+FABB,EHAM,2,International (to/from South Africa),ZA,NL
+FABB,EIDW,1,International (to/from South Africa),ZA,IE
+FABB,FABA,1,Domestic (South Africa),ZA,ZA
+FABB,FABB,5,Domestic (South Africa),ZA,ZA
+FABB,FACT,9,Domestic (South Africa),ZA,ZA
+FABB,FADV,1,Domestic (South Africa),ZA,ZA
+FABB,FAGC,2,Domestic (South Africa),ZA,ZA
+FABB,FAGM,4,Domestic (South Africa),ZA,ZA
+FABB,FAHG,2,Domestic (South Africa),ZA,ZA
+FABB,FAKG,1,Domestic (South Africa),ZA,ZA
+FABB,FAKL,7,Domestic (South Africa),ZA,ZA
+FABB,FAKR,1,Domestic (South Africa),ZA,ZA
+FABB,FAKT,8,Domestic (South Africa),ZA,ZA
+FABB,FALA,1,Domestic (South Africa),ZA,ZA
+FABB,FAMB,1,Domestic (South Africa),ZA,ZA
+FABB,FAMS,3,Domestic (South Africa),ZA,ZA
+FABB,FANL,5,Domestic (South Africa),ZA,ZA
+FABB,FAOI,3,Domestic (South Africa),ZA,ZA
+FABB,FAOR,3,Domestic (South Africa),ZA,ZA
+FABB,FARA,1,Domestic (South Africa),ZA,ZA
+FABB,FASI,3,Domestic (South Africa),ZA,ZA
+FABB,FASJ,1,Domestic (South Africa),ZA,ZA
+FABB,FASU,1,Domestic (South Africa),ZA,ZA
+FABB,FATA,6,Domestic (South Africa),ZA,ZA
+FABB,FAVP,2,Domestic (South Africa),ZA,ZA
+FABB,FAVV,4,Domestic (South Africa),ZA,ZA
+FABB,FAWB,1,Domestic (South Africa),ZA,ZA
+FABB,FAWI,7,Domestic (South Africa),ZA,ZA
+FABB,LFPG,1,International (to/from South Africa),ZA,FR
+FABB,LTFM,1,International (to/from South Africa),ZA,TR
+FABB,MMVR,1,International (to/from South Africa),ZA,MX
+FABB,OM11,1,International (to/from South Africa),ZA,AE
+FABB,OMDB,22,International (to/from South Africa),ZA,AE
+FABB,WSSS,1,International (to/from South Africa),ZA,SG
+FABB,YPPH,5,International (to/from South Africa),ZA,AU
+FABB,YSSY,10,International (to/from South Africa),ZA,AU
+FABS,FABA,1,Domestic (South Africa),ZA,ZA
+FABS,FABS,9,Domestic (South Africa),ZA,ZA
+FABS,FADX,1,Domestic (South Africa),ZA,ZA
+FABS,FAFW,1,Domestic (South Africa),ZA,ZA
+FABS,FAGC,25,Domestic (South Africa),ZA,ZA
+FABS,FAGM,12,Domestic (South Africa),ZA,ZA
+FABS,FAHK,9,Domestic (South Africa),ZA,ZA
+FABS,FAKR,12,Domestic (South Africa),ZA,ZA
+FABS,FAKT,7,Domestic (South Africa),ZA,ZA
+FABS,FALA,48,Domestic (South Africa),ZA,ZA
+FABS,FAOI,1,Domestic (South Africa),ZA,ZA
+FABS,FAOR,1,Domestic (South Africa),ZA,ZA
+FABS,FAPN,2,Domestic (South Africa),ZA,ZA
+FABS,FARG,4,Domestic (South Africa),ZA,ZA
+FABS,FARO,1,Domestic (South Africa),ZA,ZA
+FABS,FASK,1,Domestic (South Africa),ZA,ZA
+FABS,FATA,4,Domestic (South Africa),ZA,ZA
+FABS,FAVV,1,Domestic (South Africa),ZA,ZA
+FABS,FAWA,1,Domestic (South Africa),ZA,ZA
+FABS,FAWB,54,Domestic (South Africa),ZA,ZA
+FABS,SDAM,1,International (to/from South Africa),ZA,BR
+FABS,SDTB,1,International (to/from South Africa),ZA,BR
+FABS,SNGX,1,International (to/from South Africa),ZA,BR
+FACE,FADX,1,Domestic (South Africa),ZA,ZA
+FACF,FACT,1,Domestic (South Africa),ZA,ZA
+FACF,FAPE,1,Domestic (South Africa),ZA,ZA
+FACF,FASY,1,Domestic (South Africa),ZA,ZA
+FACG,FACT,4,Domestic (South Africa),ZA,ZA
+FACG,FADX,9,Domestic (South Africa),ZA,ZA
+FACG,FASH,20,Domestic (South Africa),ZA,ZA
+FACG,LSGE,1,International (to/from South Africa),ZA,CH
+FACR,FABS,2,Domestic (South Africa),ZA,ZA
+FACR,FADE,1,Domestic (South Africa),ZA,ZA
+FACR,FAGC,2,Domestic (South Africa),ZA,ZA
+FACR,FALA,8,Domestic (South Africa),ZA,ZA
+FACR,FAOR,1,Domestic (South Africa),ZA,ZA
+FACR,FASK,1,Domestic (South Africa),ZA,ZA
+FACR,FATA,1,Domestic (South Africa),ZA,ZA
+FACR,FAWB,4,Domestic (South Africa),ZA,ZA
+FACT,CYYZ,1,International (to/from South Africa),ZA,CA
+FACT,EBAW,1,International (to/from South Africa),ZA,BE
+FACT,EBBR,43,International (to/from South Africa),ZA,BE
+FACT,EBLG,1,International (to/from South Africa),ZA,BE
+FACT,EBMB,5,International (to/from South Africa),ZA,BE
+FACT,EDDF,392,International (to/from South Africa),ZA,DE
+FACT,EDDH,4,International (to/from South Africa),ZA,DE
+FACT,EDDL,3,International (to/from South Africa),ZA,DE
+FACT,EDDM,160,International (to/from South Africa),ZA,DE
+FACT,EDDN,1,International (to/from South Africa),ZA,DE
+FACT,EDLV,1,International (to/from South Africa),ZA,DE
+FACT,EDMO,1,International (to/from South Africa),ZA,DE
+FACT,EDVE,1,International (to/from South Africa),ZA,DE
+FACT,EGBB,1,International (to/from South Africa),ZA,GB
+FACT,EGGW,10,International (to/from South Africa),ZA,GB
+FACT,EGHH,1,International (to/from South Africa),ZA,GB
+FACT,EGHQ,1,International (to/from South Africa),ZA,GB
+FACT,EGKB,5,International (to/from South Africa),ZA,GB
+FACT,EGKK,112,International (to/from South Africa),ZA,GB
+FACT,EGKR,5,International (to/from South Africa),ZA,GB
+FACT,EGLF,9,International (to/from South Africa),ZA,GB
+FACT,EGLL,760,International (to/from South Africa),ZA,GB
+FACT,EGLM,1,International (to/from South Africa),ZA,GB
+FACT,EGPH,7,International (to/from South Africa),ZA,GB
+FACT,EGSS,13,International (to/from South Africa),ZA,GB
+FACT,EGTD,3,International (to/from South Africa),ZA,GB
+FACT,EGTK,1,International (to/from South Africa),ZA,GB
+FACT,EHAM,436,International (to/from South Africa),ZA,NL
+FACT,EHBK,1,International (to/from South Africa),ZA,NL
+FACT,EHRD,3,International (to/from South Africa),ZA,NL
+FACT,EIDW,1,International (to/from South Africa),ZA,IE
+FACT,EINN,1,International (to/from South Africa),ZA,IE
+FACT,EKCH,1,International (to/from South Africa),ZA,DK
+FACT,ELLX,1,International (to/from South Africa),ZA,LU
+FACT,ENGM,4,International (to/from South Africa),ZA,NO
+FACT,ENJB,1,International (to/from South Africa),ZA,NO
+FACT,EPWA,1,International (to/from South Africa),ZA,PL
+FACT,ESSA,31,International (to/from South Africa),ZA,SE
+FACT,ESSB,1,International (to/from South Africa),ZA,SE
+FACT,ESSN,1,International (to/from South Africa),ZA,SE
+FACT,FABA,89,Domestic (South Africa),ZA,ZA
+FACT,FABB,710,Domestic (South Africa),ZA,ZA
+FACT,FABE,43,Domestic (South Africa),ZA,ZA
+FACT,FABS,1,Domestic (South Africa),ZA,ZA
+FACT,FACE,13,Domestic (South Africa),ZA,ZA
+FACT,FACF,1,Domestic (South Africa),ZA,ZA
+FACT,FACG,63,Domestic (South Africa),ZA,ZA
+FACT,FACI,2,Domestic (South Africa),ZA,ZA
+FACT,FACR,126,Domestic (South Africa),ZA,ZA
+FACT,FACT,1728,Domestic (South Africa),ZA,ZA
+FACT,FADE,4,Domestic (South Africa),ZA,ZA
+FACT,FADS,2,Domestic (South Africa),ZA,ZA
+FACT,FADX,175,Domestic (South Africa),ZA,ZA
+FACT,FAEL,56,Domestic (South Africa),ZA,ZA
+FACT,FAGC,42,Domestic (South Africa),ZA,ZA
+FACT,FAGM,2903,Domestic (South Africa),ZA,ZA
+FACT,FAGT,1,Domestic (South Africa),ZA,ZA
+FACT,FAHG,317,Domestic (South Africa),ZA,ZA
+FACT,FAHK,3,Domestic (South Africa),ZA,ZA
+FACT,FAKR,582,Domestic (South Africa),ZA,ZA
+FACT,FAKT,1,Domestic (South Africa),ZA,ZA
+FACT,FALA,1850,Domestic (South Africa),ZA,ZA
+FACT,FALS,75,Domestic (South Africa),ZA,ZA
+FACT,FALW,64,Domestic (South Africa),ZA,ZA
+FACT,FAMS,3,Domestic (South Africa),ZA,ZA
+FACT,FAMY,117,Domestic (South Africa),ZA,ZA
+FACT,FANL,5,Domestic (South Africa),ZA,ZA
+FACT,FAOI,56,Domestic (South Africa),ZA,ZA
+FACT,FAOR,9903,Domestic (South Africa),ZA,ZA
+FACT,FAPE,202,Domestic (South Africa),ZA,ZA
+FACT,FAPU,76,Domestic (South Africa),ZA,ZA
+FACT,FARA,19,Domestic (South Africa),ZA,ZA
+FACT,FARO,2,Domestic (South Africa),ZA,ZA
+FACT,FASD,6,Domestic (South Africa),ZA,ZA
+FACT,FASH,92,Domestic (South Africa),ZA,ZA
+FACT,FASI,18,Domestic (South Africa),ZA,ZA
+FACT,FASK,3,Domestic (South Africa),ZA,ZA
+FACT,FASU,1,Domestic (South Africa),ZA,ZA
+FACT,FASY,23,Domestic (South Africa),ZA,ZA
+FACT,FATA,486,Domestic (South Africa),ZA,ZA
+FACT,FATI,1,Domestic (South Africa),ZA,ZA
+FACT,FAVP,27,Domestic (South Africa),ZA,ZA
+FACT,FAVV,682,Domestic (South Africa),ZA,ZA
+FACT,FAWA,1,Domestic (South Africa),ZA,ZA
+FACT,FAWB,67,Domestic (South Africa),ZA,ZA
+FACT,FAWC,11,Domestic (South Africa),ZA,ZA
+FACT,FAWK,12,Domestic (South Africa),ZA,ZA
+FACT,FAYP,99,Domestic (South Africa),ZA,ZA
+FACT,GOBD,15,International (to/from South Africa),ZA,SN
+FACT,HKMO,8,International (to/from South Africa),ZA,KE
+FACT,HKNW,9,International (to/from South Africa),ZA,KE
+FACT,HTDA,25,International (to/from South Africa),ZA,TZ
+FACT,ID27,1,International (to/from South Africa),ZA,US
+FACT,K43B,1,International (to/from South Africa),ZA,US
+FACT,KATL,171,International (to/from South Africa),ZA,US
+FACT,KBOS,2,International (to/from South Africa),ZA,US
+FACT,KDFW,1,International (to/from South Africa),ZA,US
+FACT,KEWR,158,International (to/from South Africa),ZA,US
+FACT,KFLL,1,International (to/from South Africa),ZA,US
+FACT,KHHR,1,International (to/from South Africa),ZA,US
+FACT,KHPN,2,International (to/from South Africa),ZA,US
+FACT,KIAD,155,International (to/from South Africa),ZA,US
+FACT,KJFK,8,International (to/from South Africa),ZA,US
+FACT,KOPF,1,International (to/from South Africa),ZA,US
+FACT,KORD,2,International (to/from South Africa),ZA,US
+FACT,KORL,1,International (to/from South Africa),ZA,US
+FACT,KPHL,1,International (to/from South Africa),ZA,US
+FACT,KRIC,1,International (to/from South Africa),ZA,US
+FACT,KSDM,1,International (to/from South Africa),ZA,US
+FACT,KSEA,1,International (to/from South Africa),ZA,US
+FACT,KTEB,1,International (to/from South Africa),ZA,US
+FACT,LCLK,1,International (to/from South Africa),ZA,CY
+FACT,LCPH,1,International (to/from South Africa),ZA,CY
+FACT,LEBL,2,International (to/from South Africa),ZA,ES
+FACT,LEJR,1,International (to/from South Africa),ZA,ES
+FACT,LEMD,12,International (to/from South Africa),ZA,ES
+FACT,LEMG,2,International (to/from South Africa),ZA,ES
+FACT,LEPA,2,International (to/from South Africa),ZA,ES
+FACT,LFHN,1,International (to/from South Africa),ZA,FR
+FACT,LFLL,3,International (to/from South Africa),ZA,FR
+FACT,LFLY,1,International (to/from South Africa),ZA,FR
+FACT,LFML,18,International (to/from South Africa),ZA,FR
+FACT,LFMN,6,International (to/from South Africa),ZA,FR
+FACT,LFOE,1,International (to/from South Africa),ZA,FR
+FACT,LFPB,6,International (to/from South Africa),ZA,FR
+FACT,LFPG,140,International (to/from South Africa),ZA,FR
+FACT,LFTH,1,International (to/from South Africa),ZA,FR
+FACT,LGAV,1,International (to/from South Africa),ZA,GR
+FACT,LHBP,3,International (to/from South Africa),ZA,HU
+FACT,LHPR,1,International (to/from South Africa),ZA,HU
+FACT,LIMC,20,International (to/from South Africa),ZA,IT
+FACT,LIME,1,International (to/from South Africa),ZA,IT
+FACT,LIML,3,International (to/from South Africa),ZA,IT
+FACT,LIPZ,1,International (to/from South Africa),ZA,IT
+FACT,LIQG,2,International (to/from South Africa),ZA,IT
+FACT,LIRA,1,International (to/from South Africa),ZA,IT
+FACT,LIRF,56,International (to/from South Africa),ZA,IT
+FACT,LKPR,5,International (to/from South Africa),ZA,CZ
+FACT,LLBG,1,International (to/from South Africa),ZA,IL
+FACT,LMML,2,International (to/from South Africa),ZA,MT
+FACT,LOWK,1,International (to/from South Africa),ZA,AT
+FACT,LOWL,1,International (to/from South Africa),ZA,AT
+FACT,LOWW,135,International (to/from South Africa),ZA,AT
+FACT,LPAR,2,International (to/from South Africa),ZA,PT
+FACT,LPFR,1,International (to/from South Africa),ZA,PT
+FACT,LPMA,1,International (to/from South Africa),ZA,PT
+FACT,LPPR,1,International (to/from South Africa),ZA,PT
+FACT,LPPT,3,International (to/from South Africa),ZA,PT
+FACT,LSGG,23,International (to/from South Africa),ZA,CH
+FACT,LSMD,2,International (to/from South Africa),ZA,CH
+FACT,LSZH,137,International (to/from South Africa),ZA,CH
+FACT,LSZM,1,International (to/from South Africa),ZA,CH
+FACT,LTBA,21,International (to/from South Africa),ZA,TR
+FACT,LTFJ,4,International (to/from South Africa),ZA,TR
+FACT,LTFM,260,International (to/from South Africa),ZA,TR
+FACT,LYBE,1,International (to/from South Africa),ZA,RS
+FACT,NZNE,1,International (to/from South Africa),ZA,NZ
+FACT,OMAD,1,International (to/from South Africa),ZA,AE
+FACT,OMDB,703,International (to/from South Africa),ZA,AE
+FACT,OMDW,5,International (to/from South Africa),ZA,AE
+FACT,OMSJ,11,International (to/from South Africa),ZA,AE
+FACT,OOSH,1,International (to/from South Africa),ZA,OM
+FACT,OTBD,1,International (to/from South Africa),ZA,QA
+FACT,OTBH,1,International (to/from South Africa),ZA,QA
+FACT,OTHH,144,International (to/from South Africa),ZA,QA
+FACT,RJAA,2,International (to/from South Africa),ZA,JP
+FACT,RJBB,8,International (to/from South Africa),ZA,JP
+FACT,RKSI,1,International (to/from South Africa),ZA,KR
+FACT,RPLL,6,International (to/from South Africa),ZA,PH
+FACT,SABE,2,International (to/from South Africa),ZA,AR
+FACT,SAEZ,1,International (to/from South Africa),ZA,AR
+FACT,SBBR,1,International (to/from South Africa),ZA,BR
+FACT,SBFZ,1,International (to/from South Africa),ZA,BR
+FACT,SBGL,1,International (to/from South Africa),ZA,BR
+FACT,SBGR,64,International (to/from South Africa),ZA,BR
+FACT,SBMT,14,International (to/from South Africa),ZA,BR
+FACT,SBSJ,9,International (to/from South Africa),ZA,BR
+FACT,SBSP,1,International (to/from South Africa),ZA,BR
+FACT,SBVT,1,International (to/from South Africa),ZA,BR
+FACT,SDCO,3,International (to/from South Africa),ZA,BR
+FACT,SDIH,8,International (to/from South Africa),ZA,BR
+FACT,SDIU,2,International (to/from South Africa),ZA,BR
+FACT,SDTB,2,International (to/from South Africa),ZA,BR
+FACT,SKBO,1,International (to/from South Africa),ZA,CO
+FACT,TBPB,1,International (to/from South Africa),ZA,BB
+FACT,TJSJ,2,International (to/from South Africa),ZA,PR
+FACT,TNCA,1,International (to/from South Africa),ZA,AW
+FACT,VABB,44,International (to/from South Africa),ZA,IN
+FACT,VAJJ,1,International (to/from South Africa),ZA,IN
+FACT,VECC,1,International (to/from South Africa),ZA,IN
+FACT,VHHH,1,International (to/from South Africa),ZA,HK
+FACT,VIDP,18,International (to/from South Africa),ZA,IN
+FACT,VOBL,1,International (to/from South Africa),ZA,IN
+FACT,VOMM,1,International (to/from South Africa),ZA,IN
+FACT,VOYK,3,International (to/from South Africa),ZA,IN
+FACT,VTBD,2,International (to/from South Africa),ZA,TH
+FACT,VTBS,79,International (to/from South Africa),ZA,TH
+FACT,WMKK,4,International (to/from South Africa),ZA,MY
+FACT,WMSA,1,International (to/from South Africa),ZA,MY
+FACT,WSAC,4,International (to/from South Africa),ZA,SG
+FACT,WSAP,3,International (to/from South Africa),ZA,SG
+FACT,WSSS,62,International (to/from South Africa),ZA,SG
+FACT,YBBN,4,International (to/from South Africa),ZA,AU
+FACT,YMML,4,International (to/from South Africa),ZA,AU
+FACT,YPAD,1,International (to/from South Africa),ZA,AU
+FACT,YPPH,7,International (to/from South Africa),ZA,AU
+FACT,ZBAA,3,International (to/from South Africa),ZA,CN
+FADE,FAGC,4,Domestic (South Africa),ZA,ZA
+FADE,FAGM,6,Domestic (South Africa),ZA,ZA
+FADE,FAHG,2,Domestic (South Africa),ZA,ZA
+FADE,FAKT,5,Domestic (South Africa),ZA,ZA
+FADE,FALA,3,Domestic (South Africa),ZA,ZA
+FADE,FANL,3,Domestic (South Africa),ZA,ZA
+FADE,FAOR,23,Domestic (South Africa),ZA,ZA
+FADE,FARG,1,Domestic (South Africa),ZA,ZA
+FADE,FASI,4,Domestic (South Africa),ZA,ZA
+FADE,FAWB,19,Domestic (South Africa),ZA,ZA
+FADV,FAGM,2,Domestic (South Africa),ZA,ZA
+FADV,FAHG,12,Domestic (South Africa),ZA,ZA
+FADV,FAKT,2,Domestic (South Africa),ZA,ZA
+FADV,FALA,2,Domestic (South Africa),ZA,ZA
+FADV,FAOR,3,Domestic (South Africa),ZA,ZA
+FADV,FAPN,2,Domestic (South Africa),ZA,ZA
+FADV,FASI,1,Domestic (South Africa),ZA,ZA
+FADV,FAWB,2,Domestic (South Africa),ZA,ZA
+FADV,UUBM,1,International (to/from South Africa),ZA,RU
+FADX,FACE,7,Domestic (South Africa),ZA,ZA
+FADX,FACG,9,Domestic (South Africa),ZA,ZA
+FADX,FACI,6,Domestic (South Africa),ZA,ZA
+FADX,FACT,111,Domestic (South Africa),ZA,ZA
+FADX,FADS,2,Domestic (South Africa),ZA,ZA
+FADX,FADX,2643,Domestic (South Africa),ZA,ZA
+FADX,FALA,2,Domestic (South Africa),ZA,ZA
+FADX,FALS,65,Domestic (South Africa),ZA,ZA
+FADX,FALW,35,Domestic (South Africa),ZA,ZA
+FADX,FAMY,98,Domestic (South Africa),ZA,ZA
+FADX,FAPU,25,Domestic (South Africa),ZA,ZA
+FADX,FASD,3,Domestic (South Africa),ZA,ZA
+FADX,FASH,172,Domestic (South Africa),ZA,ZA
+FADX,FATA,1,Domestic (South Africa),ZA,ZA
+FADX,FAWC,38,Domestic (South Africa),ZA,ZA
+FADX,FAYP,460,Domestic (South Africa),ZA,ZA
+FADX,LIPO,1,International (to/from South Africa),ZA,IT
+FADX,MMAN,1,International (to/from South Africa),ZA,MX
+FAEL,FACT,11,Domestic (South Africa),ZA,ZA
+FAEL,FAOR,3,Domestic (South Africa),ZA,ZA
+FAEL,FAPE,1,Domestic (South Africa),ZA,ZA
+FAFW,FABS,2,Domestic (South Africa),ZA,ZA
+FAFW,FAFW,10,Domestic (South Africa),ZA,ZA
+FAFW,FAGC,1,Domestic (South Africa),ZA,ZA
+FAFW,FAGM,3,Domestic (South Africa),ZA,ZA
+FAFW,FAHK,5,Domestic (South Africa),ZA,ZA
+FAFW,FAKT,2,Domestic (South Africa),ZA,ZA
+FAFW,FALA,6,Domestic (South Africa),ZA,ZA
+FAFW,FARO,1,Domestic (South Africa),ZA,ZA
+FAFW,FAWA,4,Domestic (South Africa),ZA,ZA
+FAFW,FAWB,36,Domestic (South Africa),ZA,ZA
+FAGC,60NC,1,International (to/from South Africa),ZA,US
+FAGC,EDDF,4,International (to/from South Africa),ZA,DE
+FAGC,EGLL,7,International (to/from South Africa),ZA,GB
+FAGC,EHAM,1,International (to/from South Africa),ZA,NL
+FAGC,FABA,22,Domestic (South Africa),ZA,ZA
+FAGC,FABB,2,Domestic (South Africa),ZA,ZA
+FAGC,FABS,79,Domestic (South Africa),ZA,ZA
+FAGC,FACT,23,Domestic (South Africa),ZA,ZA
+FAGC,FADE,10,Domestic (South Africa),ZA,ZA
+FAGC,FAFF,1,Domestic (South Africa),ZA,ZA
+FAGC,FAFW,2,Domestic (South Africa),ZA,ZA
+FAGC,FAGC,600,Domestic (South Africa),ZA,ZA
+FAGC,FAGL,1,Domestic (South Africa),ZA,ZA
+FAGC,FAGM,51,Domestic (South Africa),ZA,ZA
+FAGC,FAHG,4,Domestic (South Africa),ZA,ZA
+FAGC,FAHK,75,Domestic (South Africa),ZA,ZA
+FAGC,FAKR,15,Domestic (South Africa),ZA,ZA
+FAGC,FAKT,69,Domestic (South Africa),ZA,ZA
+FAGC,FALA,45,Domestic (South Africa),ZA,ZA
+FAGC,FAMB,2,Domestic (South Africa),ZA,ZA
+FAGC,FAMI,1,Domestic (South Africa),ZA,ZA
+FAGC,FAMS,6,Domestic (South Africa),ZA,ZA
+FAGC,FANL,16,Domestic (South Africa),ZA,ZA
+FAGC,FANY,3,Domestic (South Africa),ZA,ZA
+FAGC,FAOI,6,Domestic (South Africa),ZA,ZA
+FAGC,FAOR,15,Domestic (South Africa),ZA,ZA
+FAGC,FAPN,45,Domestic (South Africa),ZA,ZA
+FAGC,FAPS,1,Domestic (South Africa),ZA,ZA
+FAGC,FAPX,1,Domestic (South Africa),ZA,ZA
+FAGC,FAPY,2,Domestic (South Africa),ZA,ZA
+FAGC,FARA,3,Domestic (South Africa),ZA,ZA
+FAGC,FARG,33,Domestic (South Africa),ZA,ZA
+FAGC,FARO,12,Domestic (South Africa),ZA,ZA
+FAGC,FASC,2,Domestic (South Africa),ZA,ZA
+FAGC,FASI,5,Domestic (South Africa),ZA,ZA
+FAGC,FASJ,3,Domestic (South Africa),ZA,ZA
+FAGC,FASK,31,Domestic (South Africa),ZA,ZA
+FAGC,FASY,21,Domestic (South Africa),ZA,ZA
+FAGC,FATA,38,Domestic (South Africa),ZA,ZA
+FAGC,FAVE,3,Domestic (South Africa),ZA,ZA
+FAGC,FAVP,3,Domestic (South Africa),ZA,ZA
+FAGC,FAVV,9,Domestic (South Africa),ZA,ZA
+FAGC,FAWA,7,Domestic (South Africa),ZA,ZA
+FAGC,FAWB,39,Domestic (South Africa),ZA,ZA
+FAGC,FAWI,7,Domestic (South Africa),ZA,ZA
+FAGC,FAWK,11,Domestic (South Africa),ZA,ZA
+FAGC,FAZQ,2,Domestic (South Africa),ZA,ZA
+FAGC,LFPG,1,International (to/from South Africa),ZA,FR
+FAGC,LIDG,1,International (to/from South Africa),ZA,IT
+FAGC,LIDT,1,International (to/from South Africa),ZA,IT
+FAGC,LSZH,4,International (to/from South Africa),ZA,CH
+FAGC,MMMX,1,International (to/from South Africa),ZA,MX
+FAGC,SBGR,2,International (to/from South Africa),ZA,BR
+FAGM,DBBB,1,International (to/from South Africa),ZA,BJ
+FAGM,EBBR,2,International (to/from South Africa),ZA,BE
+FAGM,EBLG,5,International (to/from South Africa),ZA,BE
+FAGM,EDDF,26,International (to/from South Africa),ZA,DE
+FAGM,EDDM,1,International (to/from South Africa),ZA,DE
+FAGM,EGCC,1,International (to/from South Africa),ZA,GB
+FAGM,EGLF,1,International (to/from South Africa),ZA,GB
+FAGM,EGLL,75,International (to/from South Africa),ZA,GB
+FAGM,EGPH,1,International (to/from South Africa),ZA,GB
+FAGM,EHAM,9,International (to/from South Africa),ZA,NL
+FAGM,EIDW,3,International (to/from South Africa),ZA,IE
+FAGM,ENGM,1,International (to/from South Africa),ZA,NO
+FAGM,FABB,9,Domestic (South Africa),ZA,ZA
+FAGM,FABS,28,Domestic (South Africa),ZA,ZA
+FAGM,FACR,4,Domestic (South Africa),ZA,ZA
+FAGM,FACT,174,Domestic (South Africa),ZA,ZA
+FAGM,FADE,5,Domestic (South Africa),ZA,ZA
+FAGM,FADV,2,Domestic (South Africa),ZA,ZA
+FAGM,FAFW,7,Domestic (South Africa),ZA,ZA
+FAGM,FAGC,40,Domestic (South Africa),ZA,ZA
+FAGM,FAGM,546,Domestic (South Africa),ZA,ZA
+FAGM,FAHB,4,Domestic (South Africa),ZA,ZA
+FAGM,FAHG,33,Domestic (South Africa),ZA,ZA
+FAGM,FAHK,28,Domestic (South Africa),ZA,ZA
+FAGM,FAKG,1,Domestic (South Africa),ZA,ZA
+FAGM,FAKL,4,Domestic (South Africa),ZA,ZA
+FAGM,FAKR,25,Domestic (South Africa),ZA,ZA
+FAGM,FAKT,6,Domestic (South Africa),ZA,ZA
+FAGM,FALA,61,Domestic (South Africa),ZA,ZA
+FAGM,FAMB,3,Domestic (South Africa),ZA,ZA
+FAGM,FAMS,5,Domestic (South Africa),ZA,ZA
+FAGM,FANL,5,Domestic (South Africa),ZA,ZA
+FAGM,FANY,2,Domestic (South Africa),ZA,ZA
+FAGM,FAOI,28,Domestic (South Africa),ZA,ZA
+FAGM,FAOR,29,Domestic (South Africa),ZA,ZA
+FAGM,FAPE,2,Domestic (South Africa),ZA,ZA
+FAGM,FAPN,10,Domestic (South Africa),ZA,ZA
+FAGM,FAPY,3,Domestic (South Africa),ZA,ZA
+FAGM,FAPZ,1,Domestic (South Africa),ZA,ZA
+FAGM,FARA,2,Domestic (South Africa),ZA,ZA
+FAGM,FARG,11,Domestic (South Africa),ZA,ZA
+FAGM,FARO,9,Domestic (South Africa),ZA,ZA
+FAGM,FASH,1,Domestic (South Africa),ZA,ZA
+FAGM,FASI,35,Domestic (South Africa),ZA,ZA
+FAGM,FASJ,1,Domestic (South Africa),ZA,ZA
+FAGM,FASK,34,Domestic (South Africa),ZA,ZA
+FAGM,FASU,1,Domestic (South Africa),ZA,ZA
+FAGM,FASY,79,Domestic (South Africa),ZA,ZA
+FAGM,FATA,85,Domestic (South Africa),ZA,ZA
+FAGM,FATI,3,Domestic (South Africa),ZA,ZA
+FAGM,FAVP,15,Domestic (South Africa),ZA,ZA
+FAGM,FAVV,43,Domestic (South Africa),ZA,ZA
+FAGM,FAWA,21,Domestic (South Africa),ZA,ZA
+FAGM,FAWB,91,Domestic (South Africa),ZA,ZA
+FAGM,FAWI,5,Domestic (South Africa),ZA,ZA
+FAGM,FAWK,13,Domestic (South Africa),ZA,ZA
+FAGM,FAYP,1,Domestic (South Africa),ZA,ZA
+FAGM,FAZQ,2,Domestic (South Africa),ZA,ZA
+FAGM,HTDA,4,International (to/from South Africa),ZA,TZ
+FAGM,HTZA,1,International (to/from South Africa),ZA,TZ
+FAGM,KATL,2,International (to/from South Africa),ZA,US
+FAGM,KEWR,10,International (to/from South Africa),ZA,US
+FAGM,KHHR,1,International (to/from South Africa),ZA,US
+FAGM,LERT,1,International (to/from South Africa),ZA,ES
+FAGM,LFPG,8,International (to/from South Africa),ZA,FR
+FAGM,LIRF,1,International (to/from South Africa),ZA,IT
+FAGM,LOWW,1,International (to/from South Africa),ZA,AT
+FAGM,LSGE,1,International (to/from South Africa),ZA,CH
+FAGM,LSZH,12,International (to/from South Africa),ZA,CH
+FAGM,LTFM,6,International (to/from South Africa),ZA,TR
+FAGM,OM11,2,International (to/from South Africa),ZA,AE
+FAGM,OMDB,29,International (to/from South Africa),ZA,AE
+FAGM,OMDW,1,International (to/from South Africa),ZA,AE
+FAGM,OMSJ,1,International (to/from South Africa),ZA,AE
+FAGM,RJAA,1,International (to/from South Africa),ZA,JP
+FAGM,SBGR,2,International (to/from South Africa),ZA,BR
+FAGM,SBMT,6,International (to/from South Africa),ZA,BR
+FAGM,SBSJ,1,International (to/from South Africa),ZA,BR
+FAGM,VHHH,2,International (to/from South Africa),ZA,HK
+FAGM,VIDP,1,International (to/from South Africa),ZA,IN
+FAGM,VMMC,1,International (to/from South Africa),ZA,MO
+FAGM,VTBS,1,International (to/from South Africa),ZA,TH
+FAGM,WSSS,2,International (to/from South Africa),ZA,SG
+FAGM,YPPH,2,International (to/from South Africa),ZA,AU
+FAGM,YSSY,10,International (to/from South Africa),ZA,AU
+FAGM,ZGSZ,1,International (to/from South Africa),ZA,CN
+FAGM,ZSAM,1,International (to/from South Africa),ZA,CN
+FAGT,FACT,1,Domestic (South Africa),ZA,ZA
+FAGT,FACX,1,Domestic (South Africa),ZA,ZA
+FAGT,FAPE,7,Domestic (South Africa),ZA,ZA
+FAHB,FATI,1,Domestic (South Africa),ZA,ZA
+FAHB,FAWB,1,Domestic (South Africa),ZA,ZA
+FAHD,FACT,1,Domestic (South Africa),ZA,ZA
+FAHD,FAKR,1,Domestic (South Africa),ZA,ZA
+FAHD,FAPE,1,Domestic (South Africa),ZA,ZA
+FAHD,FATA,1,Domestic (South Africa),ZA,ZA
+FAHD,FAWB,1,Domestic (South Africa),ZA,ZA
+FAHG,EDRT,1,International (to/from South Africa),ZA,DE
+FAHG,FABA,2,Domestic (South Africa),ZA,ZA
+FAHG,FABB,2,Domestic (South Africa),ZA,ZA
+FAHG,FACT,1,Domestic (South Africa),ZA,ZA
+FAHG,FADE,4,Domestic (South Africa),ZA,ZA
+FAHG,FADV,15,Domestic (South Africa),ZA,ZA
+FAHG,FAGC,6,Domestic (South Africa),ZA,ZA
+FAHG,FAGM,7,Domestic (South Africa),ZA,ZA
+FAHG,FAHG,338,Domestic (South Africa),ZA,ZA
+FAHG,FAKR,1,Domestic (South Africa),ZA,ZA
+FAHG,FAKT,14,Domestic (South Africa),ZA,ZA
+FAHG,FALA,1,Domestic (South Africa),ZA,ZA
+FAHG,FANL,2,Domestic (South Africa),ZA,ZA
+FAHG,FAOR,1,Domestic (South Africa),ZA,ZA
+FAHG,FAPZ,3,Domestic (South Africa),ZA,ZA
+FAHG,FARA,1,Domestic (South Africa),ZA,ZA
+FAHG,FASH,1,Domestic (South Africa),ZA,ZA
+FAHG,FASI,10,Domestic (South Africa),ZA,ZA
+FAHG,FASY,2,Domestic (South Africa),ZA,ZA
+FAHG,FATA,2,Domestic (South Africa),ZA,ZA
+FAHG,FAVP,7,Domestic (South Africa),ZA,ZA
+FAHG,FAVV,8,Domestic (South Africa),ZA,ZA
+FAHG,FAWA,1,Domestic (South Africa),ZA,ZA
+FAHG,FAWB,8,Domestic (South Africa),ZA,ZA
+FAHG,YPPH,1,International (to/from South Africa),ZA,AU
+FAHG,YSSY,1,International (to/from South Africa),ZA,AU
+FAHK,CA57,1,International (to/from South Africa),ZA,US
+FAHK,FABA,3,Domestic (South Africa),ZA,ZA
+FAHK,FABB,1,Domestic (South Africa),ZA,ZA
+FAHK,FABS,11,Domestic (South Africa),ZA,ZA
+FAHK,FACR,7,Domestic (South Africa),ZA,ZA
+FAHK,FACT,2,Domestic (South Africa),ZA,ZA
+FAHK,FAFW,6,Domestic (South Africa),ZA,ZA
+FAHK,FAGC,38,Domestic (South Africa),ZA,ZA
+FAHK,FAGM,27,Domestic (South Africa),ZA,ZA
+FAHK,FAHD,1,Domestic (South Africa),ZA,ZA
+FAHK,FAHK,27,Domestic (South Africa),ZA,ZA
+FAHK,FAKR,1,Domestic (South Africa),ZA,ZA
+FAHK,FAKT,8,Domestic (South Africa),ZA,ZA
+FAHK,FALA,20,Domestic (South Africa),ZA,ZA
+FAHK,FAMS,1,Domestic (South Africa),ZA,ZA
+FAHK,FAOI,3,Domestic (South Africa),ZA,ZA
+FAHK,FAOR,2,Domestic (South Africa),ZA,ZA
+FAHK,FAPN,1,Domestic (South Africa),ZA,ZA
+FAHK,FAPX,1,Domestic (South Africa),ZA,ZA
+FAHK,FAPY,1,Domestic (South Africa),ZA,ZA
+FAHK,FARA,2,Domestic (South Africa),ZA,ZA
+FAHK,FARG,3,Domestic (South Africa),ZA,ZA
+FAHK,FARO,1,Domestic (South Africa),ZA,ZA
+FAHK,FASC,1,Domestic (South Africa),ZA,ZA
+FAHK,FASI,1,Domestic (South Africa),ZA,ZA
+FAHK,FASJ,1,Domestic (South Africa),ZA,ZA
+FAHK,FASK,2,Domestic (South Africa),ZA,ZA
+FAHK,FASY,2,Domestic (South Africa),ZA,ZA
+FAHK,FATA,4,Domestic (South Africa),ZA,ZA
+FAHK,FAVP,1,Domestic (South Africa),ZA,ZA
+FAHK,FAVV,1,Domestic (South Africa),ZA,ZA
+FAHK,FAWA,2,Domestic (South Africa),ZA,ZA
+FAHK,FAWB,19,Domestic (South Africa),ZA,ZA
+FAHK,FAWK,1,Domestic (South Africa),ZA,ZA
+FAHK,FAZQ,1,Domestic (South Africa),ZA,ZA
+FAKL,FAOR,2,Domestic (South Africa),ZA,ZA
+FAKL,FASH,1,Domestic (South Africa),ZA,ZA
+FAKR,FABA,1,Domestic (South Africa),ZA,ZA
+FAKR,FABS,15,Domestic (South Africa),ZA,ZA
+FAKR,FACT,34,Domestic (South Africa),ZA,ZA
+FAKR,FAGC,7,Domestic (South Africa),ZA,ZA
+FAKR,FAGM,7,Domestic (South Africa),ZA,ZA
+FAKR,FAHK,2,Domestic (South Africa),ZA,ZA
+FAKR,FAKR,17,Domestic (South Africa),ZA,ZA
+FAKR,FAKT,5,Domestic (South Africa),ZA,ZA
+FAKR,FALA,10,Domestic (South Africa),ZA,ZA
+FAKR,FANL,1,Domestic (South Africa),ZA,ZA
+FAKR,FAOI,3,Domestic (South Africa),ZA,ZA
+FAKR,FAOR,28,Domestic (South Africa),ZA,ZA
+FAKR,FASC,1,Domestic (South Africa),ZA,ZA
+FAKR,FASH,1,Domestic (South Africa),ZA,ZA
+FAKR,FASK,2,Domestic (South Africa),ZA,ZA
+FAKR,FASY,1,Domestic (South Africa),ZA,ZA
+FAKR,FATA,1,Domestic (South Africa),ZA,ZA
+FAKR,FAWA,1,Domestic (South Africa),ZA,ZA
+FAKR,FAWB,12,Domestic (South Africa),ZA,ZA
+FAKR,FAWI,1,Domestic (South Africa),ZA,ZA
+FAKR,LERT,1,International (to/from South Africa),ZA,ES
+FAKT,0CL6,1,International (to/from South Africa),ZA,US
+FAKT,2WA9,1,International (to/from South Africa),ZA,US
+FAKT,FABA,4,Domestic (South Africa),ZA,ZA
+FAKT,FABB,4,Domestic (South Africa),ZA,ZA
+FAKT,FABS,12,Domestic (South Africa),ZA,ZA
+FAKT,FACT,1,Domestic (South Africa),ZA,ZA
+FAKT,FADE,2,Domestic (South Africa),ZA,ZA
+FAKT,FAFW,6,Domestic (South Africa),ZA,ZA
+FAKT,FAGC,43,Domestic (South Africa),ZA,ZA
+FAKT,FAGM,10,Domestic (South Africa),ZA,ZA
+FAKT,FAHG,9,Domestic (South Africa),ZA,ZA
+FAKT,FAHK,1,Domestic (South Africa),ZA,ZA
+FAKT,FAHO,1,Domestic (South Africa),ZA,ZA
+FAKT,FAKR,3,Domestic (South Africa),ZA,ZA
+FAKT,FAKT,103,Domestic (South Africa),ZA,ZA
+FAKT,FALA,52,Domestic (South Africa),ZA,ZA
+FAKT,FANL,9,Domestic (South Africa),ZA,ZA
+FAKT,FAOR,8,Domestic (South Africa),ZA,ZA
+FAKT,FAPW,1,Domestic (South Africa),ZA,ZA
+FAKT,FARA,3,Domestic (South Africa),ZA,ZA
+FAKT,FARG,4,Domestic (South Africa),ZA,ZA
+FAKT,FARO,1,Domestic (South Africa),ZA,ZA
+FAKT,FASH,1,Domestic (South Africa),ZA,ZA
+FAKT,FASI,22,Domestic (South Africa),ZA,ZA
+FAKT,FASK,2,Domestic (South Africa),ZA,ZA
+FAKT,FATA,2,Domestic (South Africa),ZA,ZA
+FAKT,FAVV,2,Domestic (South Africa),ZA,ZA
+FAKT,FAWA,3,Domestic (South Africa),ZA,ZA
+FAKT,FAWB,20,Domestic (South Africa),ZA,ZA
+FAKT,FAWI,2,Domestic (South Africa),ZA,ZA
+FAKT,FAWK,1,Domestic (South Africa),ZA,ZA
+FAKT,KLGB,2,International (to/from South Africa),ZA,US
+FAKT,KLRU,1,International (to/from South Africa),ZA,US
+FAKT,MMAN,4,International (to/from South Africa),ZA,MX
+FAKT,MMPB,3,International (to/from South Africa),ZA,MX
+FAKT,MMVR,2,International (to/from South Africa),ZA,MX
+FAKT,SDOB,1,International (to/from South Africa),ZA,BR
+FAKX,FAPA,5,Domestic (South Africa),ZA,ZA
+FAKX,FAPE,5,Domestic (South Africa),ZA,ZA
+FAKX,FAPZ,1,Domestic (South Africa),ZA,ZA
+FALA,85MN,1,International (to/from South Africa),ZA,US
+FALA,DBBB,1,International (to/from South Africa),ZA,BJ
+FALA,EDDF,1,International (to/from South Africa),ZA,DE
+FALA,EDDK,1,International (to/from South Africa),ZA,DE
+FALA,EDDM,2,International (to/from South Africa),ZA,DE
+FALA,EDDV,1,International (to/from South Africa),ZA,DE
+FALA,EDHL,2,International (to/from South Africa),ZA,DE
+FALA,EDMH,1,International (to/from South Africa),ZA,DE
+FALA,EDXW,1,International (to/from South Africa),ZA,DE
+FALA,EGGW,1,International (to/from South Africa),ZA,GB
+FALA,EGJB,3,International (to/from South Africa),ZA,GG
+FALA,EGLL,1,International (to/from South Africa),ZA,GB
+FALA,EHRD,1,International (to/from South Africa),ZA,NL
+FALA,EINN,2,International (to/from South Africa),ZA,IE
+FALA,EKCH,1,International (to/from South Africa),ZA,DK
+FALA,ELLX,1,International (to/from South Africa),ZA,LU
+FALA,EPBC,1,International (to/from South Africa),ZA,PL
+FALA,EPWA,1,International (to/from South Africa),ZA,PL
+FALA,ESSA,1,International (to/from South Africa),ZA,SE
+FALA,FABA,12,Domestic (South Africa),ZA,ZA
+FALA,FABB,8,Domestic (South Africa),ZA,ZA
+FALA,FABS,108,Domestic (South Africa),ZA,ZA
+FALA,FACR,6,Domestic (South Africa),ZA,ZA
+FALA,FACT,2759,Domestic (South Africa),ZA,ZA
+FALA,FADB,1,Domestic (South Africa),ZA,ZA
+FALA,FADE,6,Domestic (South Africa),ZA,ZA
+FALA,FADV,1,Domestic (South Africa),ZA,ZA
+FALA,FADX,2,Domestic (South Africa),ZA,ZA
+FALA,FAFF,2,Domestic (South Africa),ZA,ZA
+FALA,FAFW,10,Domestic (South Africa),ZA,ZA
+FALA,FAGC,39,Domestic (South Africa),ZA,ZA
+FALA,FAGL,4,Domestic (South Africa),ZA,ZA
+FALA,FAGM,53,Domestic (South Africa),ZA,ZA
+FALA,FAHB,26,Domestic (South Africa),ZA,ZA
+FALA,FAHG,4,Domestic (South Africa),ZA,ZA
+FALA,FAHK,17,Domestic (South Africa),ZA,ZA
+FALA,FAKG,1,Domestic (South Africa),ZA,ZA
+FALA,FAKL,1,Domestic (South Africa),ZA,ZA
+FALA,FAKR,27,Domestic (South Africa),ZA,ZA
+FALA,FAKT,49,Domestic (South Africa),ZA,ZA
+FALA,FALA,1017,Domestic (South Africa),ZA,ZA
+FALA,FAMB,7,Domestic (South Africa),ZA,ZA
+FALA,FAMI,1,Domestic (South Africa),ZA,ZA
+FALA,FAMS,8,Domestic (South Africa),ZA,ZA
+FALA,FANL,28,Domestic (South Africa),ZA,ZA
+FALA,FANY,133,Domestic (South Africa),ZA,ZA
+FALA,FAOI,74,Domestic (South Africa),ZA,ZA
+FALA,FAOR,284,Domestic (South Africa),ZA,ZA
+FALA,FAPE,2,Domestic (South Africa),ZA,ZA
+FALA,FAPN,54,Domestic (South Africa),ZA,ZA
+FALA,FAPX,1,Domestic (South Africa),ZA,ZA
+FALA,FAPY,7,Domestic (South Africa),ZA,ZA
+FALA,FARA,3,Domestic (South Africa),ZA,ZA
+FALA,FARG,83,Domestic (South Africa),ZA,ZA
+FALA,FARO,46,Domestic (South Africa),ZA,ZA
+FALA,FASC,3,Domestic (South Africa),ZA,ZA
+FALA,FASH,7,Domestic (South Africa),ZA,ZA
+FALA,FASI,7,Domestic (South Africa),ZA,ZA
+FALA,FASJ,2,Domestic (South Africa),ZA,ZA
+FALA,FASK,4,Domestic (South Africa),ZA,ZA
+FALA,FASY,34,Domestic (South Africa),ZA,ZA
+FALA,FATA,48,Domestic (South Africa),ZA,ZA
+FALA,FATI,5,Domestic (South Africa),ZA,ZA
+FALA,FAVE,1,Domestic (South Africa),ZA,ZA
+FALA,FAVP,7,Domestic (South Africa),ZA,ZA
+FALA,FAVV,11,Domestic (South Africa),ZA,ZA
+FALA,FAWA,54,Domestic (South Africa),ZA,ZA
+FALA,FAWB,108,Domestic (South Africa),ZA,ZA
+FALA,FAWI,11,Domestic (South Africa),ZA,ZA
+FALA,FAWK,4,Domestic (South Africa),ZA,ZA
+FALA,FAYP,1,Domestic (South Africa),ZA,ZA
+FALA,GOBD,2,International (to/from South Africa),ZA,SN
+FALA,HE15,1,International (to/from South Africa),ZA,EG
+FALA,HEAZ,2,International (to/from South Africa),ZA,EG
+FALA,HKMO,2,International (to/from South Africa),ZA,KE
+FALA,HTDA,8,International (to/from South Africa),ZA,TZ
+FALA,KBED,1,International (to/from South Africa),ZA,US
+FALA,KFLL,1,International (to/from South Africa),ZA,US
+FALA,KHPN,1,International (to/from South Africa),ZA,US
+FALA,KIAD,1,International (to/from South Africa),ZA,US
+FALA,LCLK,1,International (to/from South Africa),ZA,CY
+FALA,LEBL,1,International (to/from South Africa),ZA,ES
+FALA,LEMD,3,International (to/from South Africa),ZA,ES
+FALA,LEMG,1,International (to/from South Africa),ZA,ES
+FALA,LERT,1,International (to/from South Africa),ZA,ES
+FALA,LEVC,1,International (to/from South Africa),ZA,ES
+FALA,LFLS,1,International (to/from South Africa),ZA,FR
+FALA,LFPB,4,International (to/from South Africa),ZA,FR
+FALA,LHBP,1,International (to/from South Africa),ZA,HU
+FALA,LIME,1,International (to/from South Africa),ZA,IT
+FALA,LIMJ,1,International (to/from South Africa),ZA,IT
+FALA,LIML,2,International (to/from South Africa),ZA,IT
+FALA,LIPH,1,International (to/from South Africa),ZA,IT
+FALA,LKPR,1,International (to/from South Africa),ZA,CZ
+FALA,LMML,4,International (to/from South Africa),ZA,MT
+FALA,LPAR,1,International (to/from South Africa),ZA,PT
+FALA,LPFR,1,International (to/from South Africa),ZA,PT
+FALA,LPPD,1,International (to/from South Africa),ZA,PT
+FALA,LROP,1,International (to/from South Africa),ZA,RO
+FALA,LSGG,5,International (to/from South Africa),ZA,CH
+FALA,LSZH,5,International (to/from South Africa),ZA,CH
+FALA,LSZS,1,International (to/from South Africa),ZA,CH
+FALA,MMVR,2,International (to/from South Africa),ZA,MX
+FALA,OMDB,1,International (to/from South Africa),ZA,AE
+FALA,OMDW,10,International (to/from South Africa),ZA,AE
+FALA,OTBD,1,International (to/from South Africa),ZA,QA
+FALA,SBFZ,2,International (to/from South Africa),ZA,BR
+FALA,SBGL,2,International (to/from South Africa),ZA,BR
+FALA,TBPB,1,International (to/from South Africa),ZA,BB
+FALA,TJSJ,1,International (to/from South Africa),ZA,PR
+FALA,VABB,2,International (to/from South Africa),ZA,IN
+FALA,VHHH,1,International (to/from South Africa),ZA,HK
+FALA,VIDP,1,International (to/from South Africa),ZA,IN
+FALA,VOMM,2,International (to/from South Africa),ZA,IN
+FALA,WMKJ,1,International (to/from South Africa),ZA,MY
+FALA,WSSL,2,International (to/from South Africa),ZA,SG
+FALA,YMEN,1,International (to/from South Africa),ZA,AU
+FALA,YSSY,1,International (to/from South Africa),ZA,AU
+FALS,FACT,5,Domestic (South Africa),ZA,ZA
+FALS,FADX,9,Domestic (South Africa),ZA,ZA
+FALS,FAMY,9,Domestic (South Africa),ZA,ZA
+FALS,FASH,13,Domestic (South Africa),ZA,ZA
+FALS,FAYP,4,Domestic (South Africa),ZA,ZA
+FALS,MMVR,1,International (to/from South Africa),ZA,MX
+FALS,NZNE,1,International (to/from South Africa),ZA,NZ
+FALW,FACT,3,Domestic (South Africa),ZA,ZA
+FALW,FADX,1,Domestic (South Africa),ZA,ZA
+FALW,FAMY,1,Domestic (South Africa),ZA,ZA
+FALW,FAWC,2,Domestic (South Africa),ZA,ZA
+FAMS,FABS,1,Domestic (South Africa),ZA,ZA
+FAMS,FAGC,2,Domestic (South Africa),ZA,ZA
+FAMS,FAGM,3,Domestic (South Africa),ZA,ZA
+FAMS,FALA,2,Domestic (South Africa),ZA,ZA
+FAMS,FAOR,1,Domestic (South Africa),ZA,ZA
+FAMS,FAWB,4,Domestic (South Africa),ZA,ZA
+FAMY,FACT,52,Domestic (South Africa),ZA,ZA
+FAMY,FADX,103,Domestic (South Africa),ZA,ZA
+FAMY,FAGM,1,Domestic (South Africa),ZA,ZA
+FAMY,FALS,7,Domestic (South Africa),ZA,ZA
+FAMY,FALW,2,Domestic (South Africa),ZA,ZA
+FAMY,FAMY,111,Domestic (South Africa),ZA,ZA
+FAMY,FASH,6,Domestic (South Africa),ZA,ZA
+FAMY,FAWC,2,Domestic (South Africa),ZA,ZA
+FAMY,FAYP,10,Domestic (South Africa),ZA,ZA
+FAMY,LELC,1,International (to/from South Africa),ZA,ES
+FAMY,LERT,1,International (to/from South Africa),ZA,ES
+FAMY,MMMX,1,International (to/from South Africa),ZA,MX
+FAMY,MMVR,1,International (to/from South Africa),ZA,MX
+FANL,FABB,10,Domestic (South Africa),ZA,ZA
+FANL,FACT,8,Domestic (South Africa),ZA,ZA
+FANL,FAGC,1,Domestic (South Africa),ZA,ZA
+FANL,FAGM,4,Domestic (South Africa),ZA,ZA
+FANL,FAKR,1,Domestic (South Africa),ZA,ZA
+FANL,FAKT,1,Domestic (South Africa),ZA,ZA
+FANL,FALA,3,Domestic (South Africa),ZA,ZA
+FANL,FAOI,1,Domestic (South Africa),ZA,ZA
+FANL,FAOR,35,Domestic (South Africa),ZA,ZA
+FANL,FARA,1,Domestic (South Africa),ZA,ZA
+FANL,FASI,10,Domestic (South Africa),ZA,ZA
+FANL,FASJ,1,Domestic (South Africa),ZA,ZA
+FANL,MMVR,1,International (to/from South Africa),ZA,MX
+FANY,FABB,1,Domestic (South Africa),ZA,ZA
+FANY,FAGC,1,Domestic (South Africa),ZA,ZA
+FANY,FALA,3,Domestic (South Africa),ZA,ZA
+FANY,MMVR,1,International (to/from South Africa),ZA,MX
+FAOI,FABA,2,Domestic (South Africa),ZA,ZA
+FAOI,FABS,3,Domestic (South Africa),ZA,ZA
+FAOI,FACT,1,Domestic (South Africa),ZA,ZA
+FAOI,FAFW,1,Domestic (South Africa),ZA,ZA
+FAOI,FAGC,2,Domestic (South Africa),ZA,ZA
+FAOI,FAGM,3,Domestic (South Africa),ZA,ZA
+FAOI,FAHK,1,Domestic (South Africa),ZA,ZA
+FAOI,FALA,2,Domestic (South Africa),ZA,ZA
+FAOI,FAOR,35,Domestic (South Africa),ZA,ZA
+FAOI,FARG,1,Domestic (South Africa),ZA,ZA
+FAOI,FAWB,14,Domestic (South Africa),ZA,ZA
+FAOR,3TX2,1,International (to/from South Africa),ZA,US
+FAOR,CYOW,1,International (to/from South Africa),ZA,CA
+FAOR,CYVR,1,International (to/from South Africa),ZA,CA
+FAOR,CYYZ,2,International (to/from South Africa),ZA,CA
+FAOR,DBBB,38,International (to/from South Africa),ZA,BJ
+FAOR,DNMM,1,International (to/from South Africa),ZA,NG
+FAOR,DTTA,1,International (to/from South Africa),ZA,TN
+FAOR,EBBR,47,International (to/from South Africa),ZA,BE
+FAOR,EBLG,189,International (to/from South Africa),ZA,BE
+FAOR,EBMB,5,International (to/from South Africa),ZA,BE
+FAOR,EDAE,1,International (to/from South Africa),ZA,DE
+FAOR,EDCF,1,International (to/from South Africa),ZA,DE
+FAOR,EDDB,16,International (to/from South Africa),ZA,DE
+FAOR,EDDF,521,International (to/from South Africa),ZA,DE
+FAOR,EDDH,2,International (to/from South Africa),ZA,DE
+FAOR,EDDK,1,International (to/from South Africa),ZA,DE
+FAOR,EDDL,17,International (to/from South Africa),ZA,DE
+FAOR,EDDM,82,International (to/from South Africa),ZA,DE
+FAOR,EDDS,1,International (to/from South Africa),ZA,DE
+FAOR,EDER,1,International (to/from South Africa),ZA,DE
+FAOR,EDFC,1,International (to/from South Africa),ZA,DE
+FAOR,EDFZ,1,International (to/from South Africa),ZA,DE
+FAOR,EDGP,1,International (to/from South Africa),ZA,DE
+FAOR,EDJG,1,International (to/from South Africa),ZA,DE
+FAOR,EETN,1,International (to/from South Africa),ZA,EE
+FAOR,EGBB,1,International (to/from South Africa),ZA,GB
+FAOR,EGCC,18,International (to/from South Africa),ZA,GB
+FAOR,EGGW,5,International (to/from South Africa),ZA,GB
+FAOR,EGHH,2,International (to/from South Africa),ZA,GB
+FAOR,EGHQ,1,International (to/from South Africa),ZA,GB
+FAOR,EGKB,3,International (to/from South Africa),ZA,GB
+FAOR,EGKK,118,International (to/from South Africa),ZA,GB
+FAOR,EGKR,1,International (to/from South Africa),ZA,GB
+FAOR,EGLC,1,International (to/from South Africa),ZA,GB
+FAOR,EGLF,17,International (to/from South Africa),ZA,GB
+FAOR,EGLL,1022,International (to/from South Africa),ZA,GB
+FAOR,EGLM,2,International (to/from South Africa),ZA,GB
+FAOR,EGNX,1,International (to/from South Africa),ZA,GB
+FAOR,EGPD,1,International (to/from South Africa),ZA,GB
+FAOR,EGPF,1,International (to/from South Africa),ZA,GB
+FAOR,EGPH,8,International (to/from South Africa),ZA,GB
+FAOR,EGSS,10,International (to/from South Africa),ZA,GB
+FAOR,EHAM,734,International (to/from South Africa),ZA,NL
+FAOR,EHBK,82,International (to/from South Africa),ZA,NL
+FAOR,EHLE,1,International (to/from South Africa),ZA,NL
+FAOR,EHRD,1,International (to/from South Africa),ZA,NL
+FAOR,EIDW,20,International (to/from South Africa),ZA,IE
+FAOR,EKCH,3,International (to/from South Africa),ZA,DK
+FAOR,ENGM,19,International (to/from South Africa),ZA,NO
+FAOR,EPWA,3,International (to/from South Africa),ZA,PL
+FAOR,ESOK,1,International (to/from South Africa),ZA,SE
+FAOR,ESSA,9,International (to/from South Africa),ZA,SE
+FAOR,ETOU,1,International (to/from South Africa),ZA,DE
+FAOR,FABA,5,Domestic (South Africa),ZA,ZA
+FAOR,FABB,29,Domestic (South Africa),ZA,ZA
+FAOR,FABS,16,Domestic (South Africa),ZA,ZA
+FAOR,FACR,6,Domestic (South Africa),ZA,ZA
+FAOR,FACT,17079,Domestic (South Africa),ZA,ZA
+FAOR,FADB,1,Domestic (South Africa),ZA,ZA
+FAOR,FADE,14,Domestic (South Africa),ZA,ZA
+FAOR,FADV,13,Domestic (South Africa),ZA,ZA
+FAOR,FADX,4,Domestic (South Africa),ZA,ZA
+FAOR,FAEL,9,Domestic (South Africa),ZA,ZA
+FAOR,FAFF,1,Domestic (South Africa),ZA,ZA
+FAOR,FAFW,1,Domestic (South Africa),ZA,ZA
+FAOR,FAGC,5,Domestic (South Africa),ZA,ZA
+FAOR,FAGL,8,Domestic (South Africa),ZA,ZA
+FAOR,FAGM,46,Domestic (South Africa),ZA,ZA
+FAOR,FAHB,8,Domestic (South Africa),ZA,ZA
+FAOR,FAHG,7,Domestic (South Africa),ZA,ZA
+FAOR,FAHK,20,Domestic (South Africa),ZA,ZA
+FAOR,FAHO,2,Domestic (South Africa),ZA,ZA
+FAOR,FAKG,17,Domestic (South Africa),ZA,ZA
+FAOR,FAKL,40,Domestic (South Africa),ZA,ZA
+FAOR,FAKO,14,Domestic (South Africa),ZA,ZA
+FAOR,FAKR,45,Domestic (South Africa),ZA,ZA
+FAOR,FAKT,18,Domestic (South Africa),ZA,ZA
+FAOR,FALA,160,Domestic (South Africa),ZA,ZA
+FAOR,FAMB,120,Domestic (South Africa),ZA,ZA
+FAOR,FAMS,40,Domestic (South Africa),ZA,ZA
+FAOR,FAMY,2,Domestic (South Africa),ZA,ZA
+FAOR,FANL,161,Domestic (South Africa),ZA,ZA
+FAOR,FANY,7,Domestic (South Africa),ZA,ZA
+FAOR,FAOI,125,Domestic (South Africa),ZA,ZA
+FAOR,FAOR,205,Domestic (South Africa),ZA,ZA
+FAOR,FAPE,527,Domestic (South Africa),ZA,ZA
+FAOR,FAPN,151,Domestic (South Africa),ZA,ZA
+FAOR,FAPS,1,Domestic (South Africa),ZA,ZA
+FAOR,FAPW,1,Domestic (South Africa),ZA,ZA
+FAOR,FAPX,2,Domestic (South Africa),ZA,ZA
+FAOR,FARA,1,Domestic (South Africa),ZA,ZA
+FAOR,FARG,70,Domestic (South Africa),ZA,ZA
+FAOR,FARO,60,Domestic (South Africa),ZA,ZA
+FAOR,FASC,28,Domestic (South Africa),ZA,ZA
+FAOR,FASH,11,Domestic (South Africa),ZA,ZA
+FAOR,FASI,11,Domestic (South Africa),ZA,ZA
+FAOR,FASK,6,Domestic (South Africa),ZA,ZA
+FAOR,FASR,2,Domestic (South Africa),ZA,ZA
+FAOR,FASU,83,Domestic (South Africa),ZA,ZA
+FAOR,FASY,8,Domestic (South Africa),ZA,ZA
+FAOR,FATA,14,Domestic (South Africa),ZA,ZA
+FAOR,FATI,8,Domestic (South Africa),ZA,ZA
+FAOR,FATM,3,Domestic (South Africa),ZA,ZA
+FAOR,FATT,2,Domestic (South Africa),ZA,ZA
+FAOR,FAVE,1,Domestic (South Africa),ZA,ZA
+FAOR,FAVP,6,Domestic (South Africa),ZA,ZA
+FAOR,FAVV,4,Domestic (South Africa),ZA,ZA
+FAOR,FAWA,7,Domestic (South Africa),ZA,ZA
+FAOR,FAWB,124,Domestic (South Africa),ZA,ZA
+FAOR,FAWI,136,Domestic (South Africa),ZA,ZA
+FAOR,FAWK,7,Domestic (South Africa),ZA,ZA
+FAOR,FAYP,11,Domestic (South Africa),ZA,ZA
+FAOR,FAZR,17,Domestic (South Africa),ZA,ZA
+FAOR,GBYD,5,International (to/from South Africa),ZA,GM
+FAOR,GMMN,1,International (to/from South Africa),ZA,MA
+FAOR,GOBD,34,International (to/from South Africa),ZA,SN
+FAOR,HE15,1,International (to/from South Africa),ZA,EG
+FAOR,HEAZ,12,International (to/from South Africa),ZA,EG
+FAOR,HECA,2,International (to/from South Africa),ZA,EG
+FAOR,HKJK,2,International (to/from South Africa),ZA,KE
+FAOR,HKMO,21,International (to/from South Africa),ZA,KE
+FAOR,HKNW,35,International (to/from South Africa),ZA,KE
+FAOR,HTDA,543,International (to/from South Africa),ZA,TZ
+FAOR,HTZA,40,International (to/from South Africa),ZA,TZ
+FAOR,KATL,323,International (to/from South Africa),ZA,US
+FAOR,KBED,1,International (to/from South Africa),ZA,US
+FAOR,KCDW,1,International (to/from South Africa),ZA,US
+FAOR,KDFW,1,International (to/from South Africa),ZA,US
+FAOR,KEWR,323,International (to/from South Africa),ZA,US
+FAOR,KFPR,1,International (to/from South Africa),ZA,US
+FAOR,KIAD,4,International (to/from South Africa),ZA,US
+FAOR,KJFK,95,International (to/from South Africa),ZA,US
+FAOR,KJYO,1,International (to/from South Africa),ZA,US
+FAOR,KLDJ,1,International (to/from South Africa),ZA,US
+FAOR,KMIA,1,International (to/from South Africa),ZA,US
+FAOR,KMMU,1,International (to/from South Africa),ZA,US
+FAOR,KORD,1,International (to/from South Africa),ZA,US
+FAOR,KPHL,1,International (to/from South Africa),ZA,US
+FAOR,KSEA,3,International (to/from South Africa),ZA,US
+FAOR,KSFO,2,International (to/from South Africa),ZA,US
+FAOR,KSRQ,1,International (to/from South Africa),ZA,US
+FAOR,KTEB,2,International (to/from South Africa),ZA,US
+FAOR,LCEN,1,International (to/from South Africa),ZA,CY
+FAOR,LCLK,2,International (to/from South Africa),ZA,CY
+FAOR,LEAL,2,International (to/from South Africa),ZA,ES
+FAOR,LEBL,25,International (to/from South Africa),ZA,ES
+FAOR,LEMD,17,International (to/from South Africa),ZA,ES
+FAOR,LEPA,4,International (to/from South Africa),ZA,ES
+FAOR,LETO,1,International (to/from South Africa),ZA,ES
+FAOR,LEZG,1,International (to/from South Africa),ZA,ES
+FAOR,LEZL,1,International (to/from South Africa),ZA,ES
+FAOR,LFBD,1,International (to/from South Africa),ZA,FR
+FAOR,LFBF,1,International (to/from South Africa),ZA,FR
+FAOR,LFHN,1,International (to/from South Africa),ZA,FR
+FAOR,LFLY,1,International (to/from South Africa),ZA,FR
+FAOR,LFML,11,International (to/from South Africa),ZA,FR
+FAOR,LFMN,12,International (to/from South Africa),ZA,FR
+FAOR,LFPB,4,International (to/from South Africa),ZA,FR
+FAOR,LFPE,1,International (to/from South Africa),ZA,FR
+FAOR,LFPG,648,International (to/from South Africa),ZA,FR
+FAOR,LFPO,1,International (to/from South Africa),ZA,FR
+FAOR,LGAV,5,International (to/from South Africa),ZA,GR
+FAOR,LGKN,2,International (to/from South Africa),ZA,GR
+FAOR,LHBP,7,International (to/from South Africa),ZA,HU
+FAOR,LICJ,1,International (to/from South Africa),ZA,IT
+FAOR,LIMC,45,International (to/from South Africa),ZA,IT
+FAOR,LIPZ,1,International (to/from South Africa),ZA,IT
+FAOR,LIRF,79,International (to/from South Africa),ZA,IT
+FAOR,LIRQ,1,International (to/from South Africa),ZA,IT
+FAOR,LKPR,4,International (to/from South Africa),ZA,CZ
+FAOR,LLBG,45,International (to/from South Africa),ZA,IL
+FAOR,LLHZ,3,International (to/from South Africa),ZA,IL
+FAOR,LMML,1,International (to/from South Africa),ZA,MT
+FAOR,LOWW,4,International (to/from South Africa),ZA,AT
+FAOR,LPAR,9,International (to/from South Africa),ZA,PT
+FAOR,LPBJ,1,International (to/from South Africa),ZA,PT
+FAOR,LPCS,1,International (to/from South Africa),ZA,PT
+FAOR,LPMT,1,International (to/from South Africa),ZA,PT
+FAOR,LPPR,1,International (to/from South Africa),ZA,PT
+FAOR,LPPT,49,International (to/from South Africa),ZA,PT
+FAOR,LROP,2,International (to/from South Africa),ZA,RO
+FAOR,LSGG,24,International (to/from South Africa),ZA,CH
+FAOR,LSZH,368,International (to/from South Africa),ZA,CH
+FAOR,LSZM,2,International (to/from South Africa),ZA,CH
+FAOR,LTAI,3,International (to/from South Africa),ZA,TR
+FAOR,LTBA,29,International (to/from South Africa),ZA,TR
+FAOR,LTBW,1,International (to/from South Africa),ZA,TR
+FAOR,LTBX,1,International (to/from South Africa),ZA,TR
+FAOR,LTFJ,12,International (to/from South Africa),ZA,TR
+FAOR,LTFM,340,International (to/from South Africa),ZA,TR
+FAOR,OBBI,2,International (to/from South Africa),ZA,BH
+FAOR,OEDF,1,International (to/from South Africa),ZA,SA
+FAOR,OJAI,1,International (to/from South Africa),ZA,JO
+FAOR,OLBA,7,International (to/from South Africa),ZA,LB
+FAOR,OM11,102,International (to/from South Africa),ZA,AE
+FAOR,OMAA,25,International (to/from South Africa),ZA,AE
+FAOR,OMAF,1,International (to/from South Africa),ZA,AE
+FAOR,OMAM,1,International (to/from South Africa),ZA,AE
+FAOR,OMDB,1250,International (to/from South Africa),ZA,AE
+FAOR,OMDW,108,International (to/from South Africa),ZA,AE
+FAOR,OMSJ,63,International (to/from South Africa),ZA,AE
+FAOR,OPLA,1,International (to/from South Africa),ZA,PK
+FAOR,ORMM,1,International (to/from South Africa),ZA,IQ
+FAOR,OTBD,7,International (to/from South Africa),ZA,QA
+FAOR,OTHH,354,International (to/from South Africa),ZA,QA
+FAOR,PANC,6,International (to/from South Africa),ZA,US
+FAOR,PHNL,1,International (to/from South Africa),ZA,US
+FAOR,RCKH,1,International (to/from South Africa),ZA,TW
+FAOR,RCTP,1,International (to/from South Africa),ZA,TW
+FAOR,RJAA,5,International (to/from South Africa),ZA,JP
+FAOR,RJBB,1,International (to/from South Africa),ZA,JP
+FAOR,RJTT,1,International (to/from South Africa),ZA,JP
+FAOR,RKSI,4,International (to/from South Africa),ZA,KR
+FAOR,RKSS,1,International (to/from South Africa),ZA,KR
+FAOR,RPLC,4,International (to/from South Africa),ZA,PH
+FAOR,RPLL,3,International (to/from South Africa),ZA,PH
+FAOR,SAEZ,1,International (to/from South Africa),ZA,AR
+FAOR,SBBR,5,International (to/from South Africa),ZA,BR
+FAOR,SBFZ,1,International (to/from South Africa),ZA,BR
+FAOR,SBGR,182,International (to/from South Africa),ZA,BR
+FAOR,SBJD,3,International (to/from South Africa),ZA,BR
+FAOR,SBKP,4,International (to/from South Africa),ZA,BR
+FAOR,SBMT,43,International (to/from South Africa),ZA,BR
+FAOR,SBSJ,18,International (to/from South Africa),ZA,BR
+FAOR,SDIH,4,International (to/from South Africa),ZA,BR
+FAOR,SDTB,19,International (to/from South Africa),ZA,BR
+FAOR,SKBO,2,International (to/from South Africa),ZA,CO
+FAOR,SNEJ,1,International (to/from South Africa),ZA,BR
+FAOR,TJSJ,5,International (to/from South Africa),ZA,PR
+FAOR,UUEE,1,International (to/from South Africa),ZA,RU
+FAOR,UUMI,1,International (to/from South Africa),ZA,RU
+FAOR,VABB,112,International (to/from South Africa),ZA,IN
+FAOR,VECC,1,International (to/from South Africa),ZA,IN
+FAOR,VGTJ,1,International (to/from South Africa),ZA,BD
+FAOR,VHHH,323,International (to/from South Africa),ZA,HK
+FAOR,VIDP,87,International (to/from South Africa),ZA,IN
+FAOR,VMMC,26,International (to/from South Africa),ZA,MO
+FAOR,VNKT,2,International (to/from South Africa),ZA,NP
+FAOR,VOBL,2,International (to/from South Africa),ZA,IN
+FAOR,VOMM,7,International (to/from South Africa),ZA,IN
+FAOR,VOYK,5,International (to/from South Africa),ZA,IN
+FAOR,VTBS,73,International (to/from South Africa),ZA,TH
+FAOR,VVGL,6,International (to/from South Africa),ZA,VN
+FAOR,WIDD,9,International (to/from South Africa),ZA,ID
+FAOR,WMKJ,1,International (to/from South Africa),ZA,MY
+FAOR,WMKK,16,International (to/from South Africa),ZA,MY
+FAOR,WMSA,1,International (to/from South Africa),ZA,MY
+FAOR,WSAC,78,International (to/from South Africa),ZA,SG
+FAOR,WSAG,1,International (to/from South Africa),ZA,SG
+FAOR,WSAP,86,International (to/from South Africa),ZA,SG
+FAOR,WSSL,1,International (to/from South Africa),ZA,SG
+FAOR,WSSS,288,International (to/from South Africa),ZA,SG
+FAOR,YMEN,1,International (to/from South Africa),ZA,AU
+FAOR,YMML,3,International (to/from South Africa),ZA,AU
+FAOR,YPPH,260,International (to/from South Africa),ZA,AU
+FAOR,YSCB,1,International (to/from South Africa),ZA,AU
+FAOR,YSSY,241,International (to/from South Africa),ZA,AU
+FAOR,ZBAA,3,International (to/from South Africa),ZA,CN
+FAOR,ZGSZ,148,International (to/from South Africa),ZA,CN
+FAOR,ZSAM,9,International (to/from South Africa),ZA,CN
+FAPA,FACT,1,Domestic (South Africa),ZA,ZA
+FAPA,FAFO,1,Domestic (South Africa),ZA,ZA
+FAPA,FAKE,1,Domestic (South Africa),ZA,ZA
+FAPA,FAKX,9,Domestic (South Africa),ZA,ZA
+FAPA,FAPA,34,Domestic (South Africa),ZA,ZA
+FAPA,FAPE,2,Domestic (South Africa),ZA,ZA
+FAPA,FAPZ,1,Domestic (South Africa),ZA,ZA
+FAPA,FASH,1,Domestic (South Africa),ZA,ZA
+FAPA,FASK,1,Domestic (South Africa),ZA,ZA
+FAPA,FAUH,1,Domestic (South Africa),ZA,ZA
+FAPE,EGLF,1,International (to/from South Africa),ZA,GB
+FAPE,ENGM,1,International (to/from South Africa),ZA,NO
+FAPE,FABB,2,Domestic (South Africa),ZA,ZA
+FAPE,FABE,1,Domestic (South Africa),ZA,ZA
+FAPE,FACD,1,Domestic (South Africa),ZA,ZA
+FAPE,FACT,203,Domestic (South Africa),ZA,ZA
+FAPE,FADP,5,Domestic (South Africa),ZA,ZA
+FAPE,FAGC,1,Domestic (South Africa),ZA,ZA
+FAPE,FAGM,1,Domestic (South Africa),ZA,ZA
+FAPE,FAGT,6,Domestic (South Africa),ZA,ZA
+FAPE,FAHF,4,Domestic (South Africa),ZA,ZA
+FAPE,FAKR,14,Domestic (South Africa),ZA,ZA
+FAPE,FAKW,1,Domestic (South Africa),ZA,ZA
+FAPE,FAKX,6,Domestic (South Africa),ZA,ZA
+FAPE,FALA,1,Domestic (South Africa),ZA,ZA
+FAPE,FALR,1,Domestic (South Africa),ZA,ZA
+FAPE,FANL,1,Domestic (South Africa),ZA,ZA
+FAPE,FAOR,475,Domestic (South Africa),ZA,ZA
+FAPE,FAPA,4,Domestic (South Africa),ZA,ZA
+FAPE,FAPE,16,Domestic (South Africa),ZA,ZA
+FAPE,FAPX,2,Domestic (South Africa),ZA,ZA
+FAPE,FAPZ,2,Domestic (South Africa),ZA,ZA
+FAPE,FARA,1,Domestic (South Africa),ZA,ZA
+FAPE,FASH,2,Domestic (South Africa),ZA,ZA
+FAPE,FASI,1,Domestic (South Africa),ZA,ZA
+FAPE,FASY,2,Domestic (South Africa),ZA,ZA
+FAPE,FAUH,1,Domestic (South Africa),ZA,ZA
+FAPE,KLAS,1,International (to/from South Africa),ZA,US
+FAPN,FABB,1,Domestic (South Africa),ZA,ZA
+FAPN,FABS,1,Domestic (South Africa),ZA,ZA
+FAPN,FACT,6,Domestic (South Africa),ZA,ZA
+FAPN,FAGC,28,Domestic (South Africa),ZA,ZA
+FAPN,FAGM,9,Domestic (South Africa),ZA,ZA
+FAPN,FALA,12,Domestic (South Africa),ZA,ZA
+FAPN,FAOR,4,Domestic (South Africa),ZA,ZA
+FAPN,FASI,1,Domestic (South Africa),ZA,ZA
+FAPN,FASY,1,Domestic (South Africa),ZA,ZA
+FAPN,FATA,1,Domestic (South Africa),ZA,ZA
+FAPN,FAVV,1,Domestic (South Africa),ZA,ZA
+FAPN,FAWB,3,Domestic (South Africa),ZA,ZA
+FAPU,FACT,51,Domestic (South Africa),ZA,ZA
+FAPU,FADX,11,Domestic (South Africa),ZA,ZA
+FAPU,FAGT,1,Domestic (South Africa),ZA,ZA
+FAPU,FAMY,1,Domestic (South Africa),ZA,ZA
+FAPU,FAPU,2,Domestic (South Africa),ZA,ZA
+FAPU,FASH,47,Domestic (South Africa),ZA,ZA
+FAPU,FAYP,14,Domestic (South Africa),ZA,ZA
+FAPX,FABA,1,Domestic (South Africa),ZA,ZA
+FAPX,FAGM,1,Domestic (South Africa),ZA,ZA
+FAPX,FAKT,1,Domestic (South Africa),ZA,ZA
+FAPX,FAOR,1,Domestic (South Africa),ZA,ZA
+FAPZ,FAOR,1,Domestic (South Africa),ZA,ZA
+FAPZ,FAPA,1,Domestic (South Africa),ZA,ZA
+FAPZ,FAPE,5,Domestic (South Africa),ZA,ZA
+FARA,FABA,2,Domestic (South Africa),ZA,ZA
+FARA,FABS,1,Domestic (South Africa),ZA,ZA
+FARA,FADE,4,Domestic (South Africa),ZA,ZA
+FARA,FAGC,3,Domestic (South Africa),ZA,ZA
+FARA,FAGM,2,Domestic (South Africa),ZA,ZA
+FARA,FAHG,1,Domestic (South Africa),ZA,ZA
+FARA,FAHK,1,Domestic (South Africa),ZA,ZA
+FARA,FAKR,1,Domestic (South Africa),ZA,ZA
+FARA,FAKT,15,Domestic (South Africa),ZA,ZA
+FARA,FALA,4,Domestic (South Africa),ZA,ZA
+FARA,FANL,2,Domestic (South Africa),ZA,ZA
+FARA,FAOI,1,Domestic (South Africa),ZA,ZA
+FARA,FAOR,5,Domestic (South Africa),ZA,ZA
+FARA,FARA,8,Domestic (South Africa),ZA,ZA
+FARA,FARG,1,Domestic (South Africa),ZA,ZA
+FARA,FASH,1,Domestic (South Africa),ZA,ZA
+FARA,FASI,5,Domestic (South Africa),ZA,ZA
+FARA,FASK,1,Domestic (South Africa),ZA,ZA
+FARA,FASY,1,Domestic (South Africa),ZA,ZA
+FARA,FATA,3,Domestic (South Africa),ZA,ZA
+FARA,FAVP,4,Domestic (South Africa),ZA,ZA
+FARA,FAVV,1,Domestic (South Africa),ZA,ZA
+FARA,FAWB,26,Domestic (South Africa),ZA,ZA
+FARA,FAZQ,2,Domestic (South Africa),ZA,ZA
+FARA,LIPY,1,International (to/from South Africa),ZA,IT
+FARA,MMVR,4,International (to/from South Africa),ZA,MX
+FARA,OMDB,2,International (to/from South Africa),ZA,AE
+FARA,YPPH,1,International (to/from South Africa),ZA,AU
+FARG,FAGC,7,Domestic (South Africa),ZA,ZA
+FARG,FAGM,10,Domestic (South Africa),ZA,ZA
+FARG,FAKT,1,Domestic (South Africa),ZA,ZA
+FARG,FALA,12,Domestic (South Africa),ZA,ZA
+FARG,FAMS,1,Domestic (South Africa),ZA,ZA
+FARG,FAOI,2,Domestic (South Africa),ZA,ZA
+FARG,FAOR,4,Domestic (South Africa),ZA,ZA
+FARG,FASI,1,Domestic (South Africa),ZA,ZA
+FARG,FASY,2,Domestic (South Africa),ZA,ZA
+FARG,FATA,5,Domestic (South Africa),ZA,ZA
+FARG,FAWA,1,Domestic (South Africa),ZA,ZA
+FARG,FAWB,8,Domestic (South Africa),ZA,ZA
+FARO,FAGC,3,Domestic (South Africa),ZA,ZA
+FARO,FAGM,2,Domestic (South Africa),ZA,ZA
+FARO,FAHK,1,Domestic (South Africa),ZA,ZA
+FARO,FALA,9,Domestic (South Africa),ZA,ZA
+FARO,FAMY,1,Domestic (South Africa),ZA,ZA
+FARO,FANY,2,Domestic (South Africa),ZA,ZA
+FARO,FAOR,3,Domestic (South Africa),ZA,ZA
+FARO,FAWB,2,Domestic (South Africa),ZA,ZA
+FASC,FAKW,1,Domestic (South Africa),ZA,ZA
+FASC,FAPY,1,Domestic (South Africa),ZA,ZA
+FASC,FASH,1,Domestic (South Africa),ZA,ZA
+FASD,FACT,4,Domestic (South Africa),ZA,ZA
+FASD,FADX,4,Domestic (South Africa),ZA,ZA
+FASH,FABA,1,Domestic (South Africa),ZA,ZA
+FASH,FACE,8,Domestic (South Africa),ZA,ZA
+FASH,FACG,79,Domestic (South Africa),ZA,ZA
+FASH,FACI,1,Domestic (South Africa),ZA,ZA
+FASH,FACT,82,Domestic (South Africa),ZA,ZA
+FASH,FADS,8,Domestic (South Africa),ZA,ZA
+FASH,FADX,187,Domestic (South Africa),ZA,ZA
+FASH,FAGM,2,Domestic (South Africa),ZA,ZA
+FASH,FAKR,1,Domestic (South Africa),ZA,ZA
+FASH,FAKT,1,Domestic (South Africa),ZA,ZA
+FASH,FALA,3,Domestic (South Africa),ZA,ZA
+FASH,FALS,25,Domestic (South Africa),ZA,ZA
+FASH,FALW,6,Domestic (South Africa),ZA,ZA
+FASH,FAMY,21,Domestic (South Africa),ZA,ZA
+FASH,FAOR,2,Domestic (South Africa),ZA,ZA
+FASH,FAPE,2,Domestic (South Africa),ZA,ZA
+FASH,FAPU,62,Domestic (South Africa),ZA,ZA
+FASH,FARA,1,Domestic (South Africa),ZA,ZA
+FASH,FASD,2,Domestic (South Africa),ZA,ZA
+FASH,FASH,924,Domestic (South Africa),ZA,ZA
+FASH,FATA,2,Domestic (South Africa),ZA,ZA
+FASH,FATI,1,Domestic (South Africa),ZA,ZA
+FASH,FAWC,24,Domestic (South Africa),ZA,ZA
+FASH,FAYP,148,Domestic (South Africa),ZA,ZA
+FASH,KBTL,1,International (to/from South Africa),ZA,US
+FASH,LKZM,1,International (to/from South Africa),ZA,CZ
+FASH,LSTB,1,International (to/from South Africa),ZA,CH
+FASH,MM20,1,International (to/from South Africa),ZA,MX
+FASH,MMAN,1,International (to/from South Africa),ZA,MX
+FASH,MMVR,3,International (to/from South Africa),ZA,MX
+FASH,SCEL,1,International (to/from South Africa),ZA,CL
+FASH,UUBM,1,International (to/from South Africa),ZA,RU
+FASI,EGKB,1,International (to/from South Africa),ZA,GB
+FASI,FABA,2,Domestic (South Africa),ZA,ZA
+FASI,FABB,1,Domestic (South Africa),ZA,ZA
+FASI,FABS,1,Domestic (South Africa),ZA,ZA
+FASI,FACT,2,Domestic (South Africa),ZA,ZA
+FASI,FADE,4,Domestic (South Africa),ZA,ZA
+FASI,FADV,7,Domestic (South Africa),ZA,ZA
+FASI,FADX,1,Domestic (South Africa),ZA,ZA
+FASI,FAFW,3,Domestic (South Africa),ZA,ZA
+FASI,FAGC,4,Domestic (South Africa),ZA,ZA
+FASI,FAGL,1,Domestic (South Africa),ZA,ZA
+FASI,FAGM,52,Domestic (South Africa),ZA,ZA
+FASI,FAHB,1,Domestic (South Africa),ZA,ZA
+FASI,FAHG,16,Domestic (South Africa),ZA,ZA
+FASI,FAHK,1,Domestic (South Africa),ZA,ZA
+FASI,FAKL,1,Domestic (South Africa),ZA,ZA
+FASI,FAKR,2,Domestic (South Africa),ZA,ZA
+FASI,FAKT,43,Domestic (South Africa),ZA,ZA
+FASI,FALA,6,Domestic (South Africa),ZA,ZA
+FASI,FALR,1,Domestic (South Africa),ZA,ZA
+FASI,FAMB,1,Domestic (South Africa),ZA,ZA
+FASI,FAMS,1,Domestic (South Africa),ZA,ZA
+FASI,FANL,10,Domestic (South Africa),ZA,ZA
+FASI,FANY,3,Domestic (South Africa),ZA,ZA
+FASI,FAOR,13,Domestic (South Africa),ZA,ZA
+FASI,FARA,2,Domestic (South Africa),ZA,ZA
+FASI,FARG,1,Domestic (South Africa),ZA,ZA
+FASI,FARO,1,Domestic (South Africa),ZA,ZA
+FASI,FASI,90,Domestic (South Africa),ZA,ZA
+FASI,FASJ,1,Domestic (South Africa),ZA,ZA
+FASI,FASK,2,Domestic (South Africa),ZA,ZA
+FASI,FASU,1,Domestic (South Africa),ZA,ZA
+FASI,FATA,7,Domestic (South Africa),ZA,ZA
+FASI,FATI,1,Domestic (South Africa),ZA,ZA
+FASI,FAVE,1,Domestic (South Africa),ZA,ZA
+FASI,FAVV,8,Domestic (South Africa),ZA,ZA
+FASI,FAWA,2,Domestic (South Africa),ZA,ZA
+FASI,FAWB,35,Domestic (South Africa),ZA,ZA
+FASI,FAWI,3,Domestic (South Africa),ZA,ZA
+FASI,LFLM,1,International (to/from South Africa),ZA,FR
+FASI,LIDU,1,International (to/from South Africa),ZA,IT
+FASI,MMPB,1,International (to/from South Africa),ZA,MX
+FASJ,FAHG,1,Domestic (South Africa),ZA,ZA
+FASJ,FARA,1,Domestic (South Africa),ZA,ZA
+FASJ,FASY,1,Domestic (South Africa),ZA,ZA
+FASJ,FATA,1,Domestic (South Africa),ZA,ZA
+FASK,EGLL,1,International (to/from South Africa),ZA,GB
+FASK,FABA,1,Domestic (South Africa),ZA,ZA
+FASK,FABS,8,Domestic (South Africa),ZA,ZA
+FASK,FAFW,1,Domestic (South Africa),ZA,ZA
+FASK,FAGC,29,Domestic (South Africa),ZA,ZA
+FASK,FAGM,50,Domestic (South Africa),ZA,ZA
+FASK,FAHG,2,Domestic (South Africa),ZA,ZA
+FASK,FAHK,12,Domestic (South Africa),ZA,ZA
+FASK,FAKR,1,Domestic (South Africa),ZA,ZA
+FASK,FAKT,7,Domestic (South Africa),ZA,ZA
+FASK,FALA,9,Domestic (South Africa),ZA,ZA
+FASK,FANL,1,Domestic (South Africa),ZA,ZA
+FASK,FAOR,4,Domestic (South Africa),ZA,ZA
+FASK,FAPE,1,Domestic (South Africa),ZA,ZA
+FASK,FARA,1,Domestic (South Africa),ZA,ZA
+FASK,FASI,2,Domestic (South Africa),ZA,ZA
+FASK,FASK,58,Domestic (South Africa),ZA,ZA
+FASK,FASY,3,Domestic (South Africa),ZA,ZA
+FASK,FATA,6,Domestic (South Africa),ZA,ZA
+FASK,FAWA,1,Domestic (South Africa),ZA,ZA
+FASK,FAWB,6,Domestic (South Africa),ZA,ZA
+FASK,FAWK,9,Domestic (South Africa),ZA,ZA
+FASK,FAYP,2,Domestic (South Africa),ZA,ZA
+FASK,KADW,1,International (to/from South Africa),ZA,US
+FASK,KSIF,1,International (to/from South Africa),ZA,US
+FASK,MMVR,1,International (to/from South Africa),ZA,MX
+FASU,FABB,8,Domestic (South Africa),ZA,ZA
+FASU,FAOR,12,Domestic (South Africa),ZA,ZA
+FASU,FARA,1,Domestic (South Africa),ZA,ZA
+FASU,FASI,11,Domestic (South Africa),ZA,ZA
+FASU,MMVR,1,International (to/from South Africa),ZA,MX
+FASY,FADV,1,Domestic (South Africa),ZA,ZA
+FASY,FAGC,29,Domestic (South Africa),ZA,ZA
+FASY,FAGM,31,Domestic (South Africa),ZA,ZA
+FASY,FAGT,1,Domestic (South Africa),ZA,ZA
+FASY,FAHG,1,Domestic (South Africa),ZA,ZA
+FASY,FAHK,1,Domestic (South Africa),ZA,ZA
+FASY,FAKR,1,Domestic (South Africa),ZA,ZA
+FASY,FALA,29,Domestic (South Africa),ZA,ZA
+FASY,FAOI,1,Domestic (South Africa),ZA,ZA
+FASY,FAOR,3,Domestic (South Africa),ZA,ZA
+FASY,FAPY,1,Domestic (South Africa),ZA,ZA
+FASY,FARG,2,Domestic (South Africa),ZA,ZA
+FASY,FASJ,1,Domestic (South Africa),ZA,ZA
+FASY,FASK,1,Domestic (South Africa),ZA,ZA
+FASY,FATA,5,Domestic (South Africa),ZA,ZA
+FASY,FAWB,21,Domestic (South Africa),ZA,ZA
+FASY,FAWI,1,Domestic (South Africa),ZA,ZA
+FASY,FAWK,1,Domestic (South Africa),ZA,ZA
+FATA,EGKL,1,International (to/from South Africa),ZA,GB
+FATA,EPPL,1,International (to/from South Africa),ZA,PL
+FATA,FABA,1,Domestic (South Africa),ZA,ZA
+FATA,FABB,4,Domestic (South Africa),ZA,ZA
+FATA,FABS,4,Domestic (South Africa),ZA,ZA
+FATA,FACR,2,Domestic (South Africa),ZA,ZA
+FATA,FACT,2,Domestic (South Africa),ZA,ZA
+FATA,FADE,1,Domestic (South Africa),ZA,ZA
+FATA,FADV,5,Domestic (South Africa),ZA,ZA
+FATA,FADX,2,Domestic (South Africa),ZA,ZA
+FATA,FAFW,1,Domestic (South Africa),ZA,ZA
+FATA,FAGC,37,Domestic (South Africa),ZA,ZA
+FATA,FAGM,92,Domestic (South Africa),ZA,ZA
+FATA,FAGT,1,Domestic (South Africa),ZA,ZA
+FATA,FAHG,7,Domestic (South Africa),ZA,ZA
+FATA,FAHK,8,Domestic (South Africa),ZA,ZA
+FATA,FAKR,1,Domestic (South Africa),ZA,ZA
+FATA,FAKT,3,Domestic (South Africa),ZA,ZA
+FATA,FALA,25,Domestic (South Africa),ZA,ZA
+FATA,FANY,1,Domestic (South Africa),ZA,ZA
+FATA,FAOI,1,Domestic (South Africa),ZA,ZA
+FATA,FAOR,3,Domestic (South Africa),ZA,ZA
+FATA,FARA,3,Domestic (South Africa),ZA,ZA
+FATA,FARG,2,Domestic (South Africa),ZA,ZA
+FATA,FASH,1,Domestic (South Africa),ZA,ZA
+FATA,FASI,8,Domestic (South Africa),ZA,ZA
+FATA,FASJ,1,Domestic (South Africa),ZA,ZA
+FATA,FASK,10,Domestic (South Africa),ZA,ZA
+FATA,FASY,16,Domestic (South Africa),ZA,ZA
+FATA,FATA,91,Domestic (South Africa),ZA,ZA
+FATA,FAVP,3,Domestic (South Africa),ZA,ZA
+FATA,FAVV,12,Domestic (South Africa),ZA,ZA
+FATA,FAWA,1,Domestic (South Africa),ZA,ZA
+FATA,FAWB,20,Domestic (South Africa),ZA,ZA
+FATA,FAWK,3,Domestic (South Africa),ZA,ZA
+FATA,KAUS,1,International (to/from South Africa),ZA,US
+FATA,KLGB,1,International (to/from South Africa),ZA,US
+FATA,LFBR,1,International (to/from South Africa),ZA,FR
+FATA,MMAN,1,International (to/from South Africa),ZA,MX
+FATA,MMMY,1,International (to/from South Africa),ZA,MX
+FATA,MMPB,3,International (to/from South Africa),ZA,MX
+FATA,SBMT,1,International (to/from South Africa),ZA,BR
+FATA,SIVU,1,International (to/from South Africa),ZA,BR
+FATI,FAGM,1,Domestic (South Africa),ZA,ZA
+FATI,FALA,2,Domestic (South Africa),ZA,ZA
+FATI,FANL,1,Domestic (South Africa),ZA,ZA
+FATI,FAOR,2,Domestic (South Africa),ZA,ZA
+FAUH,FAUH,2,Domestic (South Africa),ZA,ZA
+FAVP,FABB,1,Domestic (South Africa),ZA,ZA
+FAVP,FADE,1,Domestic (South Africa),ZA,ZA
+FAVP,FAGC,1,Domestic (South Africa),ZA,ZA
+FAVP,FAGM,7,Domestic (South Africa),ZA,ZA
+FAVP,FAHG,2,Domestic (South Africa),ZA,ZA
+FAVP,FAHK,1,Domestic (South Africa),ZA,ZA
+FAVP,FALA,1,Domestic (South Africa),ZA,ZA
+FAVP,FAOR,1,Domestic (South Africa),ZA,ZA
+FAVP,FARA,3,Domestic (South Africa),ZA,ZA
+FAVP,FASJ,1,Domestic (South Africa),ZA,ZA
+FAVP,FATA,8,Domestic (South Africa),ZA,ZA
+FAVV,FABB,1,Domestic (South Africa),ZA,ZA
+FAVV,FADV,2,Domestic (South Africa),ZA,ZA
+FAVV,FAGC,4,Domestic (South Africa),ZA,ZA
+FAVV,FAGM,33,Domestic (South Africa),ZA,ZA
+FAVV,FAHG,8,Domestic (South Africa),ZA,ZA
+FAVV,FAHK,3,Domestic (South Africa),ZA,ZA
+FAVV,FAKT,2,Domestic (South Africa),ZA,ZA
+FAVV,FALA,3,Domestic (South Africa),ZA,ZA
+FAVV,FANL,1,Domestic (South Africa),ZA,ZA
+FAVV,FAOR,6,Domestic (South Africa),ZA,ZA
+FAVV,FAPE,1,Domestic (South Africa),ZA,ZA
+FAVV,FARA,2,Domestic (South Africa),ZA,ZA
+FAVV,FASI,4,Domestic (South Africa),ZA,ZA
+FAVV,FASY,2,Domestic (South Africa),ZA,ZA
+FAVV,FATA,16,Domestic (South Africa),ZA,ZA
+FAVV,FAWB,2,Domestic (South Africa),ZA,ZA
+FAVV,KSAT,1,International (to/from South Africa),ZA,US
+FAWA,FABS,4,Domestic (South Africa),ZA,ZA
+FAWA,FAFW,1,Domestic (South Africa),ZA,ZA
+FAWA,FAGC,3,Domestic (South Africa),ZA,ZA
+FAWA,FAGM,3,Domestic (South Africa),ZA,ZA
+FAWA,FAKR,1,Domestic (South Africa),ZA,ZA
+FAWA,FAKT,1,Domestic (South Africa),ZA,ZA
+FAWA,FALA,14,Domestic (South Africa),ZA,ZA
+FAWA,FAOR,2,Domestic (South Africa),ZA,ZA
+FAWA,FARO,1,Domestic (South Africa),ZA,ZA
+FAWA,FATI,2,Domestic (South Africa),ZA,ZA
+FAWA,FAWB,4,Domestic (South Africa),ZA,ZA
+FAWB,6CO2,1,International (to/from South Africa),ZA,US
+FAWB,FABA,5,Domestic (South Africa),ZA,ZA
+FAWB,FABB,47,Domestic (South Africa),ZA,ZA
+FAWB,FABS,96,Domestic (South Africa),ZA,ZA
+FAWB,FACR,14,Domestic (South Africa),ZA,ZA
+FAWB,FACT,84,Domestic (South Africa),ZA,ZA
+FAWB,FADE,32,Domestic (South Africa),ZA,ZA
+FAWB,FADV,4,Domestic (South Africa),ZA,ZA
+FAWB,FAFF,1,Domestic (South Africa),ZA,ZA
+FAWB,FAFW,98,Domestic (South Africa),ZA,ZA
+FAWB,FAGC,43,Domestic (South Africa),ZA,ZA
+FAWB,FAGL,2,Domestic (South Africa),ZA,ZA
+FAWB,FAGM,124,Domestic (South Africa),ZA,ZA
+FAWB,FAHB,9,Domestic (South Africa),ZA,ZA
+FAWB,FAHD,1,Domestic (South Africa),ZA,ZA
+FAWB,FAHG,22,Domestic (South Africa),ZA,ZA
+FAWB,FAHK,36,Domestic (South Africa),ZA,ZA
+FAWB,FAKG,1,Domestic (South Africa),ZA,ZA
+FAWB,FAKL,3,Domestic (South Africa),ZA,ZA
+FAWB,FAKR,17,Domestic (South Africa),ZA,ZA
+FAWB,FAKT,56,Domestic (South Africa),ZA,ZA
+FAWB,FALA,205,Domestic (South Africa),ZA,ZA
+FAWB,FALW,1,Domestic (South Africa),ZA,ZA
+FAWB,FAMB,15,Domestic (South Africa),ZA,ZA
+FAWB,FAMS,16,Domestic (South Africa),ZA,ZA
+FAWB,FANL,47,Domestic (South Africa),ZA,ZA
+FAWB,FANY,5,Domestic (South Africa),ZA,ZA
+FAWB,FAOI,42,Domestic (South Africa),ZA,ZA
+FAWB,FAOR,54,Domestic (South Africa),ZA,ZA
+FAWB,FAPN,28,Domestic (South Africa),ZA,ZA
+FAWB,FARA,31,Domestic (South Africa),ZA,ZA
+FAWB,FARG,34,Domestic (South Africa),ZA,ZA
+FAWB,FARO,18,Domestic (South Africa),ZA,ZA
+FAWB,FASC,6,Domestic (South Africa),ZA,ZA
+FAWB,FASH,1,Domestic (South Africa),ZA,ZA
+FAWB,FASI,104,Domestic (South Africa),ZA,ZA
+FAWB,FASK,1,Domestic (South Africa),ZA,ZA
+FAWB,FASY,9,Domestic (South Africa),ZA,ZA
+FAWB,FATA,36,Domestic (South Africa),ZA,ZA
+FAWB,FATI,3,Domestic (South Africa),ZA,ZA
+FAWB,FAVP,2,Domestic (South Africa),ZA,ZA
+FAWB,FAVV,2,Domestic (South Africa),ZA,ZA
+FAWB,FAWA,45,Domestic (South Africa),ZA,ZA
+FAWB,FAWB,770,Domestic (South Africa),ZA,ZA
+FAWB,FAWI,16,Domestic (South Africa),ZA,ZA
+FAWB,KFNT,1,International (to/from South Africa),ZA,US
+FAWB,LIDL,1,International (to/from South Africa),ZA,IT
+FAWB,MMHC,1,International (to/from South Africa),ZA,MX
+FAWB,MMMY,1,International (to/from South Africa),ZA,MX
+FAWB,OA51,1,International (to/from South Africa),ZA,US
+FAWC,FACT,7,Domestic (South Africa),ZA,ZA
+FAWC,FADX,28,Domestic (South Africa),ZA,ZA
+FAWC,FALS,3,Domestic (South Africa),ZA,ZA
+FAWC,FASH,7,Domestic (South Africa),ZA,ZA
+FAWC,FAYP,2,Domestic (South Africa),ZA,ZA
+FAWI,FABB,38,Domestic (South Africa),ZA,ZA
+FAWI,FACR,1,Domestic (South Africa),ZA,ZA
+FAWI,FACT,1,Domestic (South Africa),ZA,ZA
+FAWI,FAGC,3,Domestic (South Africa),ZA,ZA
+FAWI,FAGM,9,Domestic (South Africa),ZA,ZA
+FAWI,FAHG,2,Domestic (South Africa),ZA,ZA
+FAWI,FALA,21,Domestic (South Africa),ZA,ZA
+FAWI,FAOR,107,Domestic (South Africa),ZA,ZA
+FAWI,FASI,25,Domestic (South Africa),ZA,ZA
+FAWI,FATI,1,Domestic (South Africa),ZA,ZA
+FAWI,FAWB,1,Domestic (South Africa),ZA,ZA
+FAWI,FAWK,1,Domestic (South Africa),ZA,ZA
+FAWK,EGKB,1,International (to/from South Africa),ZA,GB
+FAWK,EIDW,1,International (to/from South Africa),ZA,IE
+FAWK,FABS,1,Domestic (South Africa),ZA,ZA
+FAWK,FACT,23,Domestic (South Africa),ZA,ZA
+FAWK,FAGC,16,Domestic (South Africa),ZA,ZA
+FAWK,FAGM,19,Domestic (South Africa),ZA,ZA
+FAWK,FAKR,2,Domestic (South Africa),ZA,ZA
+FAWK,FALA,5,Domestic (South Africa),ZA,ZA
+FAWK,FALW,4,Domestic (South Africa),ZA,ZA
+FAWK,FANL,4,Domestic (South Africa),ZA,ZA
+FAWK,FAOR,7,Domestic (South Africa),ZA,ZA
+FAWK,FAPN,1,Domestic (South Africa),ZA,ZA
+FAWK,FARA,2,Domestic (South Africa),ZA,ZA
+FAWK,FASI,2,Domestic (South Africa),ZA,ZA
+FAWK,FASK,9,Domestic (South Africa),ZA,ZA
+FAWK,FAVV,1,Domestic (South Africa),ZA,ZA
+FAWK,FAWB,1,Domestic (South Africa),ZA,ZA
+FAWK,FAWK,61,Domestic (South Africa),ZA,ZA
+FAWK,FAYP,40,Domestic (South Africa),ZA,ZA
+FAWK,GOBD,1,International (to/from South Africa),ZA,SN
+FAWK,HKMO,1,International (to/from South Africa),ZA,KE
+FAWK,HTDA,2,International (to/from South Africa),ZA,TZ
+FAWK,KJFK,1,International (to/from South Africa),ZA,US
+FAWK,OMDB,1,International (to/from South Africa),ZA,AE
+FAWK,OMFJ,1,International (to/from South Africa),ZA,AE
+FAWK,RJTT,1,International (to/from South Africa),ZA,JP
+FAWK,UUMO,1,International (to/from South Africa),ZA,RU
+FAWK,VIDP,1,International (to/from South Africa),ZA,IN
+FAYP,EDDF,1,International (to/from South Africa),ZA,DE
+FAYP,FACT,133,Domestic (South Africa),ZA,ZA
+FAYP,FADX,125,Domestic (South Africa),ZA,ZA
+FAYP,FALA,1,Domestic (South Africa),ZA,ZA
+FAYP,FALS,5,Domestic (South Africa),ZA,ZA
+FAYP,FALW,1,Domestic (South Africa),ZA,ZA
+FAYP,FAMY,5,Domestic (South Africa),ZA,ZA
+FAYP,FAOR,1,Domestic (South Africa),ZA,ZA
+FAYP,FAPU,15,Domestic (South Africa),ZA,ZA
+FAYP,FASH,139,Domestic (South Africa),ZA,ZA
+FAYP,FASK,4,Domestic (South Africa),ZA,ZA
+FAYP,FAWB,1,Domestic (South Africa),ZA,ZA
+FAYP,FAWK,39,Domestic (South Africa),ZA,ZA
+FAYP,FAYP,4981,Domestic (South Africa),ZA,ZA
+FAYP,LTFJ,1,International (to/from South Africa),ZA,TR
+FAYP,MMVR,1,International (to/from South Africa),ZA,MX
+FAZQ,FADE,1,Domestic (South Africa),ZA,ZA
+FAZQ,FADV,1,Domestic (South Africa),ZA,ZA
+FD57,FAOR,1,International (to/from South Africa),US,ZA
+GA92,FAOR,1,International (to/from South Africa),US,ZA
+GBYD,FABB,1,International (to/from South Africa),GM,ZA
+GBYD,FAGM,5,International (to/from South Africa),GM,ZA
+GBYD,FAOR,9,International (to/from South Africa),GM,ZA
+GBYD,FATA,1,International (to/from South Africa),GM,ZA
+GMME,FAOR,1,International (to/from South Africa),MA,ZA
+GMMN,FAOR,1,International (to/from South Africa),MA,ZA
+GOBD,FABB,8,International (to/from South Africa),SN,ZA
+GOBD,FACT,15,International (to/from South Africa),SN,ZA
+GOBD,FAGM,10,International (to/from South Africa),SN,ZA
+GOBD,FAHG,3,International (to/from South Africa),SN,ZA
+GOBD,FALA,2,International (to/from South Africa),SN,ZA
+GOBD,FAOR,24,International (to/from South Africa),SN,ZA
+GOBD,FATA,1,International (to/from South Africa),SN,ZA
+GOOY,FAOR,1,International (to/from South Africa),SN,ZA
+HECA,FABB,2,International (to/from South Africa),EG,ZA
+HECA,FACT,2,International (to/from South Africa),EG,ZA
+HECA,FAHG,2,International (to/from South Africa),EG,ZA
+HECA,FAOR,12,International (to/from South Africa),EG,ZA
+HKMO,FABB,3,International (to/from South Africa),KE,ZA
+HKMO,FACT,9,International (to/from South Africa),KE,ZA
+HKMO,FAGM,2,International (to/from South Africa),KE,ZA
+HKMO,FAOR,12,International (to/from South Africa),KE,ZA
+HKMO,FASI,1,International (to/from South Africa),KE,ZA
+HKNW,FACT,3,International (to/from South Africa),KE,ZA
+HKNW,FAGM,1,International (to/from South Africa),KE,ZA
+HKNW,FAOR,2,International (to/from South Africa),KE,ZA
+HKRE,FAOR,1,International (to/from South Africa),KE,ZA
+HTDA,FABA,3,International (to/from South Africa),TZ,ZA
+HTDA,FABB,113,International (to/from South Africa),TZ,ZA
+HTDA,FACT,12,International (to/from South Africa),TZ,ZA
+HTDA,FAGM,25,International (to/from South Africa),TZ,ZA
+HTDA,FAHG,21,International (to/from South Africa),TZ,ZA
+HTDA,FAKR,3,International (to/from South Africa),TZ,ZA
+HTDA,FALA,6,International (to/from South Africa),TZ,ZA
+HTDA,FAOR,335,International (to/from South Africa),TZ,ZA
+HTDA,FASI,36,International (to/from South Africa),TZ,ZA
+HTDA,FAWK,2,International (to/from South Africa),TZ,ZA
+HTZA,FAOR,1,International (to/from South Africa),TZ,ZA
+KADW,FALA,1,International (to/from South Africa),US,ZA
+KADW,FAWK,1,International (to/from South Africa),US,ZA
+KAFW,FACT,1,International (to/from South Africa),US,ZA
+KATL,FABB,7,International (to/from South Africa),US,ZA
+KATL,FACT,173,International (to/from South Africa),US,ZA
+KATL,FAGC,1,International (to/from South Africa),US,ZA
+KATL,FAGM,38,International (to/from South Africa),US,ZA
+KATL,FAHG,1,International (to/from South Africa),US,ZA
+KATL,FAKR,2,International (to/from South Africa),US,ZA
+KATL,FAOR,259,International (to/from South Africa),US,ZA
+KATL,FATA,23,International (to/from South Africa),US,ZA
+KATL,FAVV,1,International (to/from South Africa),US,ZA
+KBED,FAOR,1,International (to/from South Africa),US,ZA
+KCNO,FAGM,1,International (to/from South Africa),US,ZA
+KDFW,FAOR,4,International (to/from South Africa),US,ZA
+KEWR,FABA,1,International (to/from South Africa),US,ZA
+KEWR,FABB,12,International (to/from South Africa),US,ZA
+KEWR,FACT,171,International (to/from South Africa),US,ZA
+KEWR,FAGM,35,International (to/from South Africa),US,ZA
+KEWR,FAKR,4,International (to/from South Africa),US,ZA
+KEWR,FALA,3,International (to/from South Africa),US,ZA
+KEWR,FAOR,248,International (to/from South Africa),US,ZA
+KEWR,FASY,3,International (to/from South Africa),US,ZA
+KEWR,FATA,32,International (to/from South Africa),US,ZA
+KEWR,FAVV,2,International (to/from South Africa),US,ZA
+KHPN,FACT,3,International (to/from South Africa),US,ZA
+KIAD,FABB,1,International (to/from South Africa),US,ZA
+KIAD,FACT,154,International (to/from South Africa),US,ZA
+KIAD,FAGM,1,International (to/from South Africa),US,ZA
+KIAD,FAHG,1,International (to/from South Africa),US,ZA
+KIAD,FAOR,12,International (to/from South Africa),US,ZA
+KIAD,FASI,1,International (to/from South Africa),US,ZA
+KIAD,FAWK,1,International (to/from South Africa),US,ZA
+KIWA,FAGM,1,International (to/from South Africa),US,ZA
+KJFK,FABB,18,International (to/from South Africa),US,ZA
+KJFK,FACT,3,International (to/from South Africa),US,ZA
+KJFK,FAGM,9,International (to/from South Africa),US,ZA
+KJFK,FAHG,24,International (to/from South Africa),US,ZA
+KJFK,FAOR,145,International (to/from South Africa),US,ZA
+KJFK,FASI,4,International (to/from South Africa),US,ZA
+KJFK,FAWK,1,International (to/from South Africa),US,ZA
+KLAS,FACT,1,International (to/from South Africa),US,ZA
+KLAS,FAOR,1,International (to/from South Africa),US,ZA
+KMIA,FALA,1,International (to/from South Africa),US,ZA
+KOAK,FACT,1,International (to/from South Africa),US,ZA
+KORD,FACT,1,International (to/from South Africa),US,ZA
+KORD,FAOR,2,International (to/from South Africa),US,ZA
+KORD,FASI,1,International (to/from South Africa),US,ZA
+KORL,FAOR,1,International (to/from South Africa),US,ZA
+KRIC,FACT,1,International (to/from South Africa),US,ZA
+KSAT,FATA,1,International (to/from South Africa),US,ZA
+KSAV,FACT,1,International (to/from South Africa),US,ZA
+KSEA,FAOR,1,International (to/from South Africa),US,ZA
+KSGR,FATA,1,International (to/from South Africa),US,ZA
+KSRQ,FAOR,1,International (to/from South Africa),US,ZA
+KTEB,FACT,2,International (to/from South Africa),US,ZA
+LBSF,FAOR,1,International (to/from South Africa),BG,ZA
+LCLK,FACT,2,International (to/from South Africa),CY,ZA
+LEAL,FALA,1,International (to/from South Africa),ES,ZA
+LEAL,FAOR,1,International (to/from South Africa),ES,ZA
+LEBL,FACT,1,International (to/from South Africa),ES,ZA
+LEBL,FAGM,1,International (to/from South Africa),ES,ZA
+LEBL,FAHG,4,International (to/from South Africa),ES,ZA
+LEBL,FAOR,25,International (to/from South Africa),ES,ZA
+LEBL,FASI,1,International (to/from South Africa),ES,ZA
+LEBL,FATA,1,International (to/from South Africa),ES,ZA
+LEGE,FACT,1,International (to/from South Africa),ES,ZA
+LEIB,FALA,1,International (to/from South Africa),ES,ZA
+LEJR,FACT,1,International (to/from South Africa),ES,ZA
+LEMD,FACT,16,International (to/from South Africa),ES,ZA
+LEMD,FAGM,2,International (to/from South Africa),ES,ZA
+LEMD,FAHG,3,International (to/from South Africa),ES,ZA
+LEMD,FALA,2,International (to/from South Africa),ES,ZA
+LEMD,FAOI,1,International (to/from South Africa),ES,ZA
+LEMD,FAOR,30,International (to/from South Africa),ES,ZA
+LEMD,FASI,1,International (to/from South Africa),ES,ZA
+LEMG,FACT,10,International (to/from South Africa),ES,ZA
+LEPA,FACT,2,International (to/from South Africa),ES,ZA
+LETO,FAOR,1,International (to/from South Africa),ES,ZA
+LEVC,FALA,2,International (to/from South Africa),ES,ZA
+LEZG,FAGM,1,International (to/from South Africa),ES,ZA
+LFBF,FAOR,1,International (to/from South Africa),FR,ZA
+LFLI,FAKR,1,International (to/from South Africa),FR,ZA
+LFML,FABB,2,International (to/from South Africa),FR,ZA
+LFML,FACT,23,International (to/from South Africa),FR,ZA
+LFML,FAOR,6,International (to/from South Africa),FR,ZA
+LFMN,FACT,6,International (to/from South Africa),FR,ZA
+LFMN,FAGM,1,International (to/from South Africa),FR,ZA
+LFMN,FALA,1,International (to/from South Africa),FR,ZA
+LFMN,FAOR,7,International (to/from South Africa),FR,ZA
+LFOE,FACT,1,International (to/from South Africa),FR,ZA
+LFPB,FACT,3,International (to/from South Africa),FR,ZA
+LFPB,FALA,2,International (to/from South Africa),FR,ZA
+LFPB,FAOR,2,International (to/from South Africa),FR,ZA
+LFPG,FABA,5,International (to/from South Africa),FR,ZA
+LFPG,FABB,46,International (to/from South Africa),FR,ZA
+LFPG,FACT,144,International (to/from South Africa),FR,ZA
+LFPG,FAGC,2,International (to/from South Africa),FR,ZA
+LFPG,FAGM,25,International (to/from South Africa),FR,ZA
+LFPG,FAHG,27,International (to/from South Africa),FR,ZA
+LFPG,FAOR,416,International (to/from South Africa),FR,ZA
+LFPG,FARA,1,International (to/from South Africa),FR,ZA
+LFPG,FASI,8,International (to/from South Africa),FR,ZA
+LFPG,FASY,1,International (to/from South Africa),FR,ZA
+LFPG,FATA,29,International (to/from South Africa),FR,ZA
+LFPG,FAVV,3,International (to/from South Africa),FR,ZA
+LFTH,FAOR,1,International (to/from South Africa),FR,ZA
+LGAV,FABB,7,International (to/from South Africa),GR,ZA
+LGAV,FACT,3,International (to/from South Africa),GR,ZA
+LGAV,FAOR,11,International (to/from South Africa),GR,ZA
+LGAV,FASI,2,International (to/from South Africa),GR,ZA
+LGMK,FAOR,1,International (to/from South Africa),GR,ZA
+LGSA,FABB,1,International (to/from South Africa),GR,ZA
+LHBP,FACT,2,International (to/from South Africa),HU,ZA
+LHBP,FAGM,1,International (to/from South Africa),HU,ZA
+LIDL,FAWB,1,International (to/from South Africa),IT,ZA
+LIEO,FACT,1,International (to/from South Africa),IT,ZA
+LIMC,FABB,5,International (to/from South Africa),IT,ZA
+LIMC,FACT,14,International (to/from South Africa),IT,ZA
+LIMC,FAGM,2,International (to/from South Africa),IT,ZA
+LIMC,FAOR,20,International (to/from South Africa),IT,ZA
+LIMC,FASI,1,International (to/from South Africa),IT,ZA
+LIME,FALA,1,International (to/from South Africa),IT,ZA
+LIML,FACT,2,International (to/from South Africa),IT,ZA
+LIML,FAKR,1,International (to/from South Africa),IT,ZA
+LIML,FALA,1,International (to/from South Africa),IT,ZA
+LIPH,FACT,1,International (to/from South Africa),IT,ZA
+LIPK,FABA,1,International (to/from South Africa),IT,ZA
+LIPK,FAOR,1,International (to/from South Africa),IT,ZA
+LIPZ,FACT,3,International (to/from South Africa),IT,ZA
+LIPZ,FAOR,2,International (to/from South Africa),IT,ZA
+LIRA,FACT,1,International (to/from South Africa),IT,ZA
+LIRF,FABB,4,International (to/from South Africa),IT,ZA
+LIRF,FACT,36,International (to/from South Africa),IT,ZA
+LIRF,FAGM,4,International (to/from South Africa),IT,ZA
+LIRF,FAHG,2,International (to/from South Africa),IT,ZA
+LIRF,FAOR,16,International (to/from South Africa),IT,ZA
+LIRF,FASI,1,International (to/from South Africa),IT,ZA
+LIRP,FALA,1,International (to/from South Africa),IT,ZA
+LIRP,FAOR,1,International (to/from South Africa),IT,ZA
+LKPR,FACT,5,International (to/from South Africa),CZ,ZA
+LKPR,FAGM,1,International (to/from South Africa),CZ,ZA
+LKPR,FAHG,1,International (to/from South Africa),CZ,ZA
+LKPR,FALA,1,International (to/from South Africa),CZ,ZA
+LKPR,FAOR,2,International (to/from South Africa),CZ,ZA
+LKPR,FATA,1,International (to/from South Africa),CZ,ZA
+LLBG,FABB,24,International (to/from South Africa),IL,ZA
+LLBG,FACT,2,International (to/from South Africa),IL,ZA
+LLBG,FAGM,8,International (to/from South Africa),IL,ZA
+LLBG,FAHG,3,International (to/from South Africa),IL,ZA
+LLBG,FAOR,55,International (to/from South Africa),IL,ZA
+LLBG,FASI,3,International (to/from South Africa),IL,ZA
+LMML,FACT,1,International (to/from South Africa),MT,ZA
+LOWL,FACT,2,International (to/from South Africa),AT,ZA
+LOWW,FACT,114,International (to/from South Africa),AT,ZA
+LOWW,FAOR,5,International (to/from South Africa),AT,ZA
+LPAR,FAOR,2,International (to/from South Africa),PT,ZA
+LPBJ,FAOR,1,International (to/from South Africa),PT,ZA
+LPFR,FACT,2,International (to/from South Africa),PT,ZA
+LPPR,FAOR,2,International (to/from South Africa),PT,ZA
+LPPT,FABB,2,International (to/from South Africa),PT,ZA
+LPPT,FACT,11,International (to/from South Africa),PT,ZA
+LPPT,FAGM,3,International (to/from South Africa),PT,ZA
+LPPT,FAOR,58,International (to/from South Africa),PT,ZA
+LPPT,FASI,1,International (to/from South Africa),PT,ZA
+LROP,FACT,1,International (to/from South Africa),RO,ZA
+LSGG,FABB,5,International (to/from South Africa),CH,ZA
+LSGG,FACT,24,International (to/from South Africa),CH,ZA
+LSGG,FAGM,2,International (to/from South Africa),CH,ZA
+LSGG,FAHG,2,International (to/from South Africa),CH,ZA
+LSGG,FALA,4,International (to/from South Africa),CH,ZA
+LSGG,FAOR,38,International (to/from South Africa),CH,ZA
+LSGG,FASI,1,International (to/from South Africa),CH,ZA
+LSMP,FACT,1,International (to/from South Africa),CH,ZA
+LSZH,FABA,2,International (to/from South Africa),CH,ZA
+LSZH,FABB,16,International (to/from South Africa),CH,ZA
+LSZH,FACT,135,International (to/from South Africa),CH,ZA
+LSZH,FAGC,1,International (to/from South Africa),CH,ZA
+LSZH,FAGM,59,International (to/from South Africa),CH,ZA
+LSZH,FAKR,2,International (to/from South Africa),CH,ZA
+LSZH,FALA,1,International (to/from South Africa),CH,ZA
+LSZH,FAOR,215,International (to/from South Africa),CH,ZA
+LSZH,FATA,68,International (to/from South Africa),CH,ZA
+LSZH,FAVP,1,International (to/from South Africa),CH,ZA
+LSZH,FAVV,9,International (to/from South Africa),CH,ZA
+LSZH,FAWK,1,International (to/from South Africa),CH,ZA
+LSZM,FACT,1,International (to/from South Africa),CH,ZA
+LSZM,FAKR,1,International (to/from South Africa),CH,ZA
+LSZM,FAOR,1,International (to/from South Africa),CH,ZA
+LTAI,FAOR,1,International (to/from South Africa),TR,ZA
+LTBA,FABB,1,International (to/from South Africa),TR,ZA
+LTBA,FACT,4,International (to/from South Africa),TR,ZA
+LTBA,FAHG,1,International (to/from South Africa),TR,ZA
+LTBA,FALA,2,International (to/from South Africa),TR,ZA
+LTBA,FAOR,1,International (to/from South Africa),TR,ZA
+LTFM,FABA,2,International (to/from South Africa),TR,ZA
+LTFM,FABB,45,International (to/from South Africa),TR,ZA
+LTFM,FACT,267,International (to/from South Africa),TR,ZA
+LTFM,FAGM,11,International (to/from South Africa),TR,ZA
+LTFM,FAHG,17,International (to/from South Africa),TR,ZA
+LTFM,FAOR,249,International (to/from South Africa),TR,ZA
+LTFM,FASI,17,International (to/from South Africa),TR,ZA
+MMAN,FAKT,1,International (to/from South Africa),MX,ZA
+MMAN,FATA,1,International (to/from South Africa),MX,ZA
+MMPB,FAKT,1,International (to/from South Africa),MX,ZA
+MMPB,FASH,1,International (to/from South Africa),MX,ZA
+MMVR,FARA,1,International (to/from South Africa),MX,ZA
+MMVR,FASC,1,International (to/from South Africa),MX,ZA
+NZNE,FACT,1,International (to/from South Africa),NZ,ZA
+OJAI,FASI,1,International (to/from South Africa),JO,ZA
+OLBA,FACT,1,International (to/from South Africa),LB,ZA
+OLBA,FAHG,1,International (to/from South Africa),LB,ZA
+OLBA,FASI,1,International (to/from South Africa),LB,ZA
+OM11,FAOR,1,International (to/from South Africa),AE,ZA
+OMAA,FABB,1,International (to/from South Africa),AE,ZA
+OMAA,FAOR,5,International (to/from South Africa),AE,ZA
+OMDB,FABA,5,International (to/from South Africa),AE,ZA
+OMDB,FABB,157,International (to/from South Africa),AE,ZA
+OMDB,FACT,679,International (to/from South Africa),AE,ZA
+OMDB,FAGM,52,International (to/from South Africa),AE,ZA
+OMDB,FAHG,106,International (to/from South Africa),AE,ZA
+OMDB,FAOR,825,International (to/from South Africa),AE,ZA
+OMDB,FARA,2,International (to/from South Africa),AE,ZA
+OMDB,FASI,53,International (to/from South Africa),AE,ZA
+OMDB,FATA,4,International (to/from South Africa),AE,ZA
+OMDB,FAVV,2,International (to/from South Africa),AE,ZA
+OMDB,FAYP,1,International (to/from South Africa),AE,ZA
+OMDW,FABA,5,International (to/from South Africa),AE,ZA
+OMDW,FABB,21,International (to/from South Africa),AE,ZA
+OMDW,FACT,12,International (to/from South Africa),AE,ZA
+OMDW,FAGM,9,International (to/from South Africa),AE,ZA
+OMDW,FAHG,12,International (to/from South Africa),AE,ZA
+OMDW,FAKR,1,International (to/from South Africa),AE,ZA
+OMDW,FALA,6,International (to/from South Africa),AE,ZA
+OMDW,FAOR,127,International (to/from South Africa),AE,ZA
+OMDW,FASI,7,International (to/from South Africa),AE,ZA
+OMSJ,FABB,5,International (to/from South Africa),AE,ZA
+OMSJ,FACT,1,International (to/from South Africa),AE,ZA
+OMSJ,FAGM,1,International (to/from South Africa),AE,ZA
+OMSJ,FAHG,1,International (to/from South Africa),AE,ZA
+OMSJ,FAOR,16,International (to/from South Africa),AE,ZA
+OMSJ,FASI,2,International (to/from South Africa),AE,ZA
+OTBD,FABB,1,International (to/from South Africa),QA,ZA
+OTBD,FACT,2,International (to/from South Africa),QA,ZA
+OTBD,FAOR,1,International (to/from South Africa),QA,ZA
+OTBD,FASI,1,International (to/from South Africa),QA,ZA
+OTHH,FABB,61,International (to/from South Africa),QA,ZA
+OTHH,FACT,153,International (to/from South Africa),QA,ZA
+OTHH,FAGM,23,International (to/from South Africa),QA,ZA
+OTHH,FAHG,48,International (to/from South Africa),QA,ZA
+OTHH,FAOR,220,International (to/from South Africa),QA,ZA
+OTHH,FASI,11,International (to/from South Africa),QA,ZA
+OTHH,FATA,1,International (to/from South Africa),QA,ZA
+RCNN,FABB,1,International (to/from South Africa),TW,ZA
+RCNN,FAOR,1,International (to/from South Africa),TW,ZA
+RCTP,FAOR,3,International (to/from South Africa),TW,ZA
+RJAA,FACT,3,International (to/from South Africa),JP,ZA
+RJAA,FAOR,2,International (to/from South Africa),JP,ZA
+RJBB,FACT,11,International (to/from South Africa),JP,ZA
+RJBB,FAOR,1,International (to/from South Africa),JP,ZA
+RJGG,FAOR,1,International (to/from South Africa),JP,ZA
+RKRO,FACT,1,International (to/from South Africa),KR,ZA
+RKSI,FACT,1,International (to/from South Africa),KR,ZA
+RKSI,FAOR,1,International (to/from South Africa),KR,ZA
+RPLC,FAOR,3,International (to/from South Africa),PH,ZA
+RPLL,FACT,8,International (to/from South Africa),PH,ZA
+RPLL,FAOR,2,International (to/from South Africa),PH,ZA
+SADF,FACT,1,International (to/from South Africa),AR,ZA
+SAEZ,FACT,1,International (to/from South Africa),AR,ZA
+SBBI,FACT,1,International (to/from South Africa),BR,ZA
+SBBR,FAGM,1,International (to/from South Africa),BR,ZA
+SBBR,FAOR,1,International (to/from South Africa),BR,ZA
+SBBR,FATA,1,International (to/from South Africa),BR,ZA
+SBFZ,FACT,2,International (to/from South Africa),BR,ZA
+SBFZ,FAOR,2,International (to/from South Africa),BR,ZA
+SBFZ,FATA,1,International (to/from South Africa),BR,ZA
+SBGL,FACT,5,International (to/from South Africa),BR,ZA
+SBGL,FAOR,3,International (to/from South Africa),BR,ZA
+SBGR,FABA,1,International (to/from South Africa),BR,ZA
+SBGR,FABB,8,International (to/from South Africa),BR,ZA
+SBGR,FACT,47,International (to/from South Africa),BR,ZA
+SBGR,FAGM,15,International (to/from South Africa),BR,ZA
+SBGR,FALA,1,International (to/from South Africa),BR,ZA
+SBGR,FAOR,55,International (to/from South Africa),BR,ZA
+SBGR,FATA,13,International (to/from South Africa),BR,ZA
+SBGR,FAVV,5,International (to/from South Africa),BR,ZA
+SDIH,FAOR,1,International (to/from South Africa),BR,ZA
+SIME,FAWB,1,International (to/from South Africa),BR,ZA
+TX54,FALA,1,International (to/from South Africa),US,ZA
+TX54,FASY,1,International (to/from South Africa),US,ZA
+TXKF,FALA,1,International (to/from South Africa),BM,ZA
+UUDD,FAOR,1,International (to/from South Africa),RU,ZA
+UUEE,FABB,1,International (to/from South Africa),RU,ZA
+VABB,FABA,1,International (to/from South Africa),IN,ZA
+VABB,FABB,2,International (to/from South Africa),IN,ZA
+VABB,FACT,15,International (to/from South Africa),IN,ZA
+VABB,FADE,1,International (to/from South Africa),IN,ZA
+VABB,FAGM,1,International (to/from South Africa),IN,ZA
+VABB,FAOR,25,International (to/from South Africa),IN,ZA
+VAJJ,FABA,1,International (to/from South Africa),IN,ZA
+VAJJ,FABB,10,International (to/from South Africa),IN,ZA
+VAJJ,FACT,39,International (to/from South Africa),IN,ZA
+VAJJ,FAGM,2,International (to/from South Africa),IN,ZA
+VAJJ,FAHG,6,International (to/from South Africa),IN,ZA
+VAJJ,FAOR,32,International (to/from South Africa),IN,ZA
+VAJJ,FASI,2,International (to/from South Africa),IN,ZA
+VCBI,FABB,1,International (to/from South Africa),LK,ZA
+VECC,FACT,7,International (to/from South Africa),IN,ZA
+VECC,FAOR,2,International (to/from South Africa),IN,ZA
+VGTJ,FAOR,6,International (to/from South Africa),BD,ZA
+VHHH,FABA,3,International (to/from South Africa),HK,ZA
+VHHH,FABB,35,International (to/from South Africa),HK,ZA
+VHHH,FACT,9,International (to/from South Africa),HK,ZA
+VHHH,FAGM,13,International (to/from South Africa),HK,ZA
+VHHH,FAHG,10,International (to/from South Africa),HK,ZA
+VHHH,FAOR,345,International (to/from South Africa),HK,ZA
+VHHH,FARA,1,International (to/from South Africa),HK,ZA
+VHHH,FASI,12,International (to/from South Africa),HK,ZA
+VIDP,FABB,2,International (to/from South Africa),IN,ZA
+VIDP,FACT,36,International (to/from South Africa),IN,ZA
+VIDP,FALA,1,International (to/from South Africa),IN,ZA
+VIDP,FAOR,44,International (to/from South Africa),IN,ZA
+VIDP,FAWK,1,International (to/from South Africa),IN,ZA
+VMMC,FAOR,2,International (to/from South Africa),MO,ZA
+VNKT,FABB,1,International (to/from South Africa),NP,ZA
+VOBL,FACT,1,International (to/from South Africa),IN,ZA
+VOBL,FAHG,1,International (to/from South Africa),IN,ZA
+VOBL,FAOR,1,International (to/from South Africa),IN,ZA
+VOMM,FABB,6,International (to/from South Africa),IN,ZA
+VOMM,FACT,2,International (to/from South Africa),IN,ZA
+VOMM,FAHG,2,International (to/from South Africa),IN,ZA
+VOMM,FAOR,27,International (to/from South Africa),IN,ZA
+VOMM,FAPE,1,International (to/from South Africa),IN,ZA
+VTBD,FACT,1,International (to/from South Africa),TH,ZA
+VTBS,FABB,2,International (to/from South Africa),TH,ZA
+VTBS,FACT,110,International (to/from South Africa),TH,ZA
+VTBS,FAHG,4,International (to/from South Africa),TH,ZA
+VTBS,FAOR,32,International (to/from South Africa),TH,ZA
+VTBS,FASI,4,International (to/from South Africa),TH,ZA
+VVNB,FAOR,3,International (to/from South Africa),VN,ZA
+WMKK,FABB,1,International (to/from South Africa),MY,ZA
+WMKK,FACT,39,International (to/from South Africa),MY,ZA
+WMKK,FAGM,1,International (to/from South Africa),MY,ZA
+WMKK,FAOR,8,International (to/from South Africa),MY,ZA
+WMSA,FACT,1,International (to/from South Africa),MY,ZA
+WSAC,FABB,3,International (to/from South Africa),SG,ZA
+WSAC,FACT,4,International (to/from South Africa),SG,ZA
+WSAC,FAGM,1,International (to/from South Africa),SG,ZA
+WSAC,FAOR,34,International (to/from South Africa),SG,ZA
+WSAC,FASI,2,International (to/from South Africa),SG,ZA
+WSAG,FACT,1,International (to/from South Africa),SG,ZA
+WSAG,FAOR,1,International (to/from South Africa),SG,ZA
+WSAP,FAOR,3,International (to/from South Africa),SG,ZA
+WSSS,FABA,4,International (to/from South Africa),SG,ZA
+WSSS,FABB,28,International (to/from South Africa),SG,ZA
+WSSS,FACT,24,International (to/from South Africa),SG,ZA
+WSSS,FAGM,9,International (to/from South Africa),SG,ZA
+WSSS,FAHG,12,International (to/from South Africa),SG,ZA
+WSSS,FAOR,346,International (to/from South Africa),SG,ZA
+WSSS,FASI,8,International (to/from South Africa),SG,ZA
+WSSS,FATA,1,International (to/from South Africa),SG,ZA
+YBBN,FACT,1,International (to/from South Africa),AU,ZA
+YBBN,FAOR,2,International (to/from South Africa),AU,ZA
+YBLT,FAGT,1,International (to/from South Africa),AU,ZA
+YBLT,FAVV,1,International (to/from South Africa),AU,ZA
+YMEL,FASI,1,International (to/from South Africa),AU,ZA
+YMML,FACT,1,International (to/from South Africa),AU,ZA
+YMML,FAHG,1,International (to/from South Africa),AU,ZA
+YMML,FAOR,5,International (to/from South Africa),AU,ZA
+YMML,FASI,1,International (to/from South Africa),AU,ZA
+YPAD,FACT,1,International (to/from South Africa),AU,ZA
+YPPH,FABA,2,International (to/from South Africa),AU,ZA
+YPPH,FABB,7,International (to/from South Africa),AU,ZA
+YPPH,FACT,12,International (to/from South Africa),AU,ZA
+YPPH,FADV,1,International (to/from South Africa),AU,ZA
+YPPH,FAGM,7,International (to/from South Africa),AU,ZA
+YPPH,FAHG,23,International (to/from South Africa),AU,ZA
+YPPH,FALA,1,International (to/from South Africa),AU,ZA
+YPPH,FAOR,160,International (to/from South Africa),AU,ZA
+YPPH,FASI,6,International (to/from South Africa),AU,ZA
+YRID,FAGC,1,International (to/from South Africa),AU,ZA
+YRID,FASI,1,International (to/from South Africa),AU,ZA
+YSSY,FABA,1,International (to/from South Africa),AU,ZA
+YSSY,FABB,6,International (to/from South Africa),AU,ZA
+YSSY,FACT,2,International (to/from South Africa),AU,ZA
+YSSY,FAGM,27,International (to/from South Africa),AU,ZA
+YSSY,FAHG,39,International (to/from South Africa),AU,ZA
+YSSY,FAOR,184,International (to/from South Africa),AU,ZA
+YSSY,FASI,2,International (to/from South Africa),AU,ZA
+YSSY,FATA,1,International (to/from South Africa),AU,ZA
+YSSY,FAVV,1,International (to/from South Africa),AU,ZA
+ZGSZ,FABA,2,International (to/from South Africa),CN,ZA
+ZGSZ,FABB,10,International (to/from South Africa),CN,ZA
+ZGSZ,FACT,1,International (to/from South Africa),CN,ZA
+ZGSZ,FAGC,1,International (to/from South Africa),CN,ZA
+ZGSZ,FAGM,4,International (to/from South Africa),CN,ZA
+ZGSZ,FAHG,3,International (to/from South Africa),CN,ZA
+ZGSZ,FAOR,105,International (to/from South Africa),CN,ZA
+ZGSZ,FASI,7,International (to/from South Africa),CN,ZA
